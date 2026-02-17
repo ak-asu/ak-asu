@@ -87,18 +87,24 @@ Dynamic quote that changes on each page reload
 - **External Services**:
   - readme-typing-svg.demolab.com
   - capsule-render.vercel.app
-  - github-readme-stats.vercel.app
-  - github-readme-streak-stats.herokuapp.com
+  - GitHub Actions with readme-tools/github-readme-stats-action (stats & top languages)
+  - streak-stats.demolab.com
   - github-readme-activity-graph.vercel.app
-  - github-profile-trophy.vercel.app
+  - github-trophies.vercel.app
   - quotes-github-readme.vercel.app
   - komarev.com (profile views counter)
 
-### GitHub Actions Workflow
+### GitHub Actions Workflows
 File: `.github/workflows/snake.yml`
 - Runs daily at midnight
 - Generates contribution snake animation
 - Pushes to `output` branch
+- Can be manually triggered
+
+File: `.github/workflows/stats.yml`
+- Runs daily at 3 AM UTC
+- Generates GitHub Stats and Top Languages SVG cards
+- Commits generated SVGs to `profile/` directory
 - Can be manually triggered
 
 ## 🎨 Design Principles
