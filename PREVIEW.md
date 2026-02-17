@@ -129,9 +129,10 @@ Example:
 4. Try triggering workflow manually
 
 ### Stats Not Loading?
-1. External services may be temporarily down
-2. Try refreshing page after a minute
-3. Check if username is correct in URLs
+1. GitHub Stats and Top Languages are generated as static SVGs via GitHub Actions
+2. Go to **Actions** tab and run the **"Update README Cards"** workflow manually
+3. Wait for the workflow to complete and check the `profile/` directory for SVGs
+4. For trophies, the external service at `github-trophies.vercel.app` may be temporarily down
 
 ### Badges Not Displaying?
 1. Check internet connection

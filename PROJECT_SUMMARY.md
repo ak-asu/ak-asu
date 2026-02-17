@@ -149,10 +149,10 @@ To fully activate all features, the user needs to:
 ### External Services
 - **readme-typing-svg.demolab.com** - Typing animation
 - **capsule-render.vercel.app** - Wave animations
-- **github-readme-stats.vercel.app** - GitHub statistics
-- **github-readme-streak-stats.herokuapp.com** - Streak stats
+- **GitHub Actions (readme-tools/github-readme-stats-action)** - GitHub statistics & top languages (generated as static SVGs)
+- **streak-stats.demolab.com** - Streak stats
 - **github-readme-activity-graph.vercel.app** - Activity graphs
-- **github-profile-trophy.vercel.app** - Achievement trophies
+- **github-trophies.vercel.app** - Achievement trophies
 - **quotes-github-readme.vercel.app** - Random quotes
 - **komarev.com** - Profile view counter
 - **shields.io** - Technology badges
