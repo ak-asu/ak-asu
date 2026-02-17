@@ -77,7 +77,7 @@ Your GitHub profile README has been transformed into a **modern, interactive, an
 
 Edit `README.md` and customize:
 
-1. **Personal Info** (Lines 23-32):
+1. **Personal Info** (Lines 20-28):
    ```typescript
    const ak_asu = {
        name: "Your Name",
@@ -86,12 +86,17 @@ Edit `README.md` and customize:
    };
    ```
 
-2. **Social Links** (Lines 235-242):
-   - Replace `https://linkedin.com` with your actual LinkedIn URL
-   - Update Twitter, Email, etc.
+2. **Social Links** (Lines 228-233):
+   - ⚠️ **IMPORTANT**: Replace placeholder URLs with your actual profiles:
+     - `https://linkedin.com` → Your actual LinkedIn URL
+     - `https://twitter.com` → Your actual Twitter profile
+     - `mailto:contact@example.com` → Your actual email
+     - `https://dev.to` → Your Dev.to profile (or remove if not used)
+     - `https://stackoverflow.com` → Your Stack Overflow profile (or remove if not used)
 
-3. **Portfolio Link** (Line 45):
-   - Already set to: `https://ak-asu.github.io/Portfolio/`
+3. **Portfolio Link** (Lines 37 and 231):
+   - Already correctly set to: `https://ak-asu.github.io/Portfolio/`
+   - This appears both in the header section and social links
 
 ### Adjust Tech Stack
 

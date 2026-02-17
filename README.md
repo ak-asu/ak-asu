@@ -1,5 +1,20 @@
 <div align="center">
 
+<!-- 
+═══════════════════════════════════════════════════════════════════════
+   ✨ CUSTOMIZATION NOTE ✨
+   
+   This is a template profile - please personalize it!
+   
+   🔧 Key areas to update:
+   - TypeScript code block (lines 20-28): Update name, role, focus areas
+   - Social links (lines 228-233): Replace placeholder URLs with your actual profiles
+   - Tech stack: Add/remove badges based on your actual skills
+   
+   📖 See PREVIEW.md for detailed customization guide
+═══════════════════════════════════════════════════════════════════════
+-->
+
 <!-- Dynamic Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+AK;Software+Developer+%7C+Tech+Enthusiast;Building+Solutions+%7C+Learning+Always" alt="Typing SVG" />
 
