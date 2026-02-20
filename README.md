@@ -166,7 +166,7 @@ const ak_asu = {
 <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <!-- Trophy -->
-<img width="98%" src="https://github-trophies.vercel.app/?username=ak-asu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<!-- <img width="98%" src="https://github-trophies.vercel.app/?username=ak-asu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" /> -->
 
 </div>
 
