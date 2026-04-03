@@ -207,28 +207,12 @@ const ak_asu = {
 |:---:|:---|
 | 🎨 **Design** | UI/UX Design, Responsive Layouts, Design Systems, Accessibility |
 | 🏗️ **Architecture** | Microservices, Serverless, Event-Driven, Scalable Systems |
-| 🔒 **Security** | OAuth, JWT, Encryption, Secure Coding Practices, Penetration Testing |
 | 📊 **Analytics** | Data Visualization, Business Intelligence, Performance Metrics |
-| 🌐 **Web3** | Blockchain, Smart Contracts, Decentralized Applications |
 | 🎮 **Game Dev** | Game Design, Unity, Unreal Engine, Physics Simulations |
 | 📝 **Content** | Technical Writing, Documentation, Blogging, Knowledge Sharing |
 | 🤝 **Collaboration** | Agile/Scrum, Team Leadership, Code Reviews, Mentoring |
 
 </div>
-
----
-
-## 🏆 **Achievements & Highlights**
-
-```javascript
-const achievements = {
-    openSource: "Active contributor to various open-source projects",
-    hackathons: "Participated in multiple coding competitions",
-    certifications: "Continuous learning through professional certifications",
-    mentorship: "Helping fellow developers grow and succeed",
-    problemSolving: "Solved 500+ algorithmic challenges across platforms"
-};
-```
 
 ---
 
