@@ -1,5 +1,1037 @@
 {
-  "last_updated": null,
+  "last_updated": "2026-05-30T04:37:10.056298+00:00",
   "guestbook_discussion_number": 4,
-  "repos": {}
+  "repos": {
+    "1148426086": {
+      "id": 1148426086,
+      "name": "superagent",
+      "display_name": "Superagent",
+      "description": "",
+      "summary": "Superagent simplifies HTTP requests, making it easy to send and receive data from APIs. It's lightweight and user-friendly.",
+      "readme_sha": "39d608acc2dc3ff629d7127f7678af6069d5a9f0",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "HTTP Requests",
+        "API Integration",
+        "JavaScript"
+      ],
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-02-08T16:42:30Z",
+      "url": "https://github.com/ak-asu/superagent"
+    },
+    "986794823": {
+      "id": 986794823,
+      "name": "basiccompiler",
+      "display_name": "Basiccompiler",
+      "description": "basic compiler",
+      "summary": "A simple compiler that translates basic programming language syntax into machine code, demonstrating foundational compiler design principles.",
+      "readme_sha": null,
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "Compiler Design",
+        "C++",
+        "Programming Language"
+      ],
+      "languages": {
+        "C++": 33308,
+        "Shell": 1116
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-05-20T06:19:22Z",
+      "url": "https://github.com/ak-asu/basiccompiler"
+    },
+    "940323519": {
+      "id": 940323519,
+      "name": "Portfolio",
+      "display_name": "Portfolio",
+      "description": "An interactive hosted resume",
+      "summary": "An interactive web portfolio showcasing skills and projects with engaging UI/UX, including 3D elements and a chat assistant.",
+      "readme_sha": "537c5aff0eb04d3e82e22a617441e093475a6d5b",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Interactive Portfolio",
+        "UI/UX",
+        "React",
+        "TypeScript"
+      ],
+      "languages": {
+        "TypeScript": 192522,
+        "CSS": 13254,
+        "HTML": 1329,
+        "JavaScript": 850
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-02T18:43:32Z",
+      "url": "https://github.com/ak-asu/Portfolio"
+    },
+    "1215455962": {
+      "id": 1215455962,
+      "name": "EnergyHackathon",
+      "display_name": "Energyhackathon",
+      "description": "",
+      "summary": "Scores potential data center sites in Texas by evaluating land, gas, and power factors using AI models.",
+      "readme_sha": "5a76e4fbc3e49b1c0d3d959af206ca130a909b45",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "Machine Learning",
+        "Data Center",
+        "Site Selection"
+      ],
+      "languages": {
+        "Python": 331965,
+        "JavaScript": 140386,
+        "CSS": 57892,
+        "Jupyter Notebook": 2304,
+        "HTML": 649
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T21:33:23Z",
+      "url": "https://github.com/ak-asu/EnergyHackathon"
+    },
+    "932887569": {
+      "id": 932887569,
+      "name": "Zeneuro",
+      "display_name": "Zeneuro",
+      "description": "",
+      "summary": "Zeneuro is an AI-driven mental health app offering mood tracking and self-help tools for personal wellness. It enhances emotional support accessibility.",
+      "readme_sha": "47a779c1838dc8242fd75099c21f4bf4b228fb13",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Mental Health",
+        "AI Chatbot",
+        "Self-Care",
+        "Progress Tracking"
+      ],
+      "languages": {
+        "TypeScript": 356976,
+        "Python": 3554,
+        "CSS": 1929,
+        "JavaScript": 1058,
+        "HTML": 266
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T01:46:25Z",
+      "url": "https://github.com/ak-asu/Zeneuro"
+    },
+    "886281768": {
+      "id": 886281768,
+      "name": "skills-copilot-codespaces-vscode",
+      "display_name": "Skills Copilot Codespaces Vscode",
+      "description": "My clone copilot repository",
+      "summary": "This project replicates GitHub Copilot's functionality in VS Code, enhancing coding efficiency with intelligent suggestions.",
+      "readme_sha": "d6f2966bf03bec072c9c1f6d5db5d0b4e9031ede",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Code Autocompletion",
+        "VS Code",
+        "JavaScript"
+      ],
+      "languages": {
+        "JavaScript": 1866,
+        "HTML": 53
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-12-01T06:42:31Z",
+      "url": "https://github.com/ak-asu/skills-copilot-codespaces-vscode"
+    },
+    "947638170": {
+      "id": 947638170,
+      "name": "SmallProjects",
+      "display_name": "Smallprojects",
+      "description": "",
+      "summary": "A collection of small projects showcasing various programming concepts and technologies for learning and experimentation.",
+      "readme_sha": "1aa9296209a5a6c941ec9300217f2bda06d2cf25",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "Learning Projects",
+        "Python",
+        "Programming Concepts"
+      ],
+      "languages": {
+        "Python": 63102,
+        "JavaScript": 54050,
+        "TypeScript": 46539,
+        "HTML": 13591,
+        "CSS": 9747,
+        "HCL": 572,
+        "Dockerfile": 510,
+        "Shell": 75
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-03-04T18:15:16Z",
+      "url": "https://github.com/ak-asu/SmallProjects"
+    },
+    "1253758996": {
+      "id": 1253758996,
+      "name": "parsergenerator",
+      "display_name": "Parsergenerator",
+      "description": "",
+      "summary": "This C++ tool analyzes context-free grammars and performs transformations like nullable analysis and left recursion removal. Ideal for learning and testing.",
+      "readme_sha": "8ade3cc7ae96ad5ecc2a4de342d5e4bf151227f2",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Grammar Analysis",
+        "C++",
+        "CLI Tool"
+      ],
+      "languages": {
+        "C++": 22330,
+        "Shell": 1704
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T20:03:55Z",
+      "url": "https://github.com/ak-asu/parsergenerator"
+    },
+    "980956173": {
+      "id": 980956173,
+      "name": "web-dev-skill",
+      "display_name": "Web Dev Skill",
+      "description": "Learn core web development fundamentals, industry practices, and SDLC principles by building and deploying a professional portfolio website step by step.",
+      "summary": "Build a professional portfolio website while mastering web development fundamentals and best practices. Great for improving your skills!",
+      "readme_sha": "0e287a04c52e3247643965a3a47bdb9c5d4ba421",
+      "topics_hash": "fc3844c2895ff6bebd5cbe3188f284b238508f43f823c3d000a9ba9ae406c40b",
+      "category": "web",
+      "tags": [
+        "Web Development",
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "languages": {
+        "TypeScript": 65976,
+        "CSS": 2903,
+        "HTML": 2080,
+        "JavaScript": 1849
+      },
+      "topics": [
+        "sdlc",
+        "web-development"
+      ],
+      "stars": 3,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-12-03T01:48:04Z",
+      "url": "https://github.com/ak-asu/web-dev-skill"
+    },
+    "923997030": {
+      "id": 923997030,
+      "name": "notesummarizer",
+      "display_name": "Notesummarizer",
+      "description": "Summarize notes using gemini",
+      "summary": "Summarizes notes from various sources into concise formats, enhancing productivity through voiceovers and export options.",
+      "readme_sha": "fd6e92d00ed65f4664bace76c0d9f7c321342b33",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Note Summarization",
+        "Voiceover",
+        "Text Processing"
+      ],
+      "languages": {
+        "Python": 15374
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-02-03T06:20:44Z",
+      "url": "https://github.com/ak-asu/notesummarizer"
+    },
+    "957526467": {
+      "id": 957526467,
+      "name": "ResumeBotX",
+      "display_name": "Resumebotx",
+      "description": "",
+      "summary": "ResumeBotX automates job applications by generating tailored resumes and cover letters, enhancing job seekers' chances of success.",
+      "readme_sha": "845e076d0fc2dfe96bf45deb805db73bbf7f6fe7",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "Job Automation",
+        "Resume Builder",
+        "AI Scraping"
+      ],
+      "languages": {
+        "TypeScript": 629972,
+        "Python": 141645,
+        "JavaScript": 52423,
+        "CSS": 4908,
+        "HTML": 3173
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T23:13:51Z",
+      "url": "https://github.com/ak-asu/ResumeBotX"
+    },
+    "946111147": {
+      "id": 946111147,
+      "name": "Local-Image-Finder",
+      "display_name": "Local Image Finder",
+      "description": "Find local images using AI",
+      "summary": "Search your local image library using AI for intuitive, privacy-focused results without cloud dependency.",
+      "readme_sha": "55a48d7e052d7e052162e0e5ebe61c0848a9e8d0",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Image Search",
+        "AI",
+        "Desktop App",
+        "Privacy"
+      ],
+      "languages": {
+        "TypeScript": 287325,
+        "Python": 154388,
+        "JavaScript": 7470,
+        "CSS": 2453,
+        "HTML": 668
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T01:06:55Z",
+      "url": "https://github.com/ak-asu/Local-Image-Finder"
+    },
+    "946386952": {
+      "id": 946386952,
+      "name": "reddiant",
+      "display_name": "Reddiant",
+      "description": "",
+      "summary": "A competitive platform where players engage in daily elimination games until one winner remains, fostering community interaction.",
+      "readme_sha": "30a48f3bc5075cfeffb584b0f57ebda352ecb792",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Competition Platform",
+        "Game Development",
+        "Community Engagement"
+      ],
+      "languages": {
+        "TypeScript": 141852,
+        "JavaScript": 17626,
+        "CSS": 11982,
+        "HTML": 5174
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-03-22T04:42:38Z",
+      "url": "https://github.com/ak-asu/reddiant"
+    },
+    "1031065656": {
+      "id": 1031065656,
+      "name": "GenZents-HeritageSquareFounda",
+      "display_name": "Genzents Heritagesquarefounda",
+      "description": "Repository for 2025_summer Hackathon, GenZents Team",
+      "summary": "Archyx AI simplifies heritage archive management by enabling users to ask questions and find documents via natural language.",
+      "readme_sha": "581fc043ef6451334271c25c9d23de99c94d73f5",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "Conversational AI",
+        "Google Drive",
+        "TypeScript"
+      ],
+      "languages": {
+        "TypeScript": 449212,
+        "Python": 119428,
+        "PLpgSQL": 30947,
+        "CSS": 6789,
+        "JavaScript": 1464
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": true,
+      "pushed_at": "2026-05-30T00:51:58Z",
+      "url": "https://github.com/ak-asu/GenZents-HeritageSquareFounda"
+    },
+    "1153129338": {
+      "id": 1153129338,
+      "name": "geeky",
+      "display_name": "Geeky",
+      "description": "",
+      "summary": "Geeky transforms scattered multimedia notes into personalized learning Shorts, enhancing self-education and retention through adaptive recommendations.",
+      "readme_sha": "69810926a592c60d8ea973fa08f4634aaa50209c",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "Education Technology",
+        "Personalized Learning",
+        "Knowledge Graph"
+      ],
+      "languages": {
+        "Python": 681197,
+        "Dart": 642512,
+        "HTML": 25356,
+        "CSS": 9617,
+        "Shell": 7687,
+        "JavaScript": 4019,
+        "Dockerfile": 1116,
+        "Kotlin": 119
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-05T21:28:33Z",
+      "url": "https://github.com/ak-asu/geeky"
+    },
+    "1233285207": {
+      "id": 1233285207,
+      "name": "download-codewiki",
+      "display_name": "Download Codewiki",
+      "description": "",
+      "summary": "Download Codewiki — a JavaScript project by ak-asu.",
+      "readme_sha": "99ed509bb489c6d0d60391210b117fac3b32535a",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "JavaScript": 10382
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-08T19:48:17Z",
+      "url": "https://github.com/ak-asu/download-codewiki"
+    },
+    "1198668622": {
+      "id": 1198668622,
+      "name": "read4ever",
+      "display_name": "Read4Ever",
+      "description": "",
+      "summary": "Read4Ever — a Dart project by ak-asu.",
+      "readme_sha": "412eda22ddaca724c6c6e4a63e080176b8fa5b9b",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "Dart": 214692,
+        "JavaScript": 7280,
+        "Kotlin": 121
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T02:12:52Z",
+      "url": "https://github.com/ak-asu/read4ever"
+    },
+    "862505869": {
+      "id": 862505869,
+      "name": "Tic-Tac-Toe",
+      "display_name": "Tic Tac Toe",
+      "description": "A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity",
+      "summary": "A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity",
+      "readme_sha": "5afe41fa37e9a2ba97ccdc6005369ae5819144c1",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "Kotlin": 119588
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-02-11T00:53:58Z",
+      "url": "https://github.com/ak-asu/Tic-Tac-Toe"
+    },
+    "1201327556": {
+      "id": 1201327556,
+      "name": "moneynest",
+      "display_name": "Moneynest",
+      "description": "",
+      "summary": "Moneynest — a TypeScript project by ak-asu.",
+      "readme_sha": "221d9473aab93354034d97cb8702f4b391caa4dc",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "TypeScript": 718106,
+        "CSS": 11722,
+        "PLpgSQL": 7902,
+        "JavaScript": 1445
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 1,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T22:14:02Z",
+      "url": "https://github.com/ak-asu/moneynest"
+    },
+    "1172812604": {
+      "id": 1172812604,
+      "name": "GameGenAI",
+      "display_name": "Gamegenai",
+      "description": "",
+      "summary": "Gamegenai — a TypeScript project by ak-asu.",
+      "readme_sha": "33f2418f8b4658cccc722a945be0f1a7abab7f7c",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "TypeScript": 1542490,
+        "JavaScript": 364408,
+        "HCL": 169415,
+        "Python": 67880,
+        "CSS": 54555,
+        "Shell": 53604,
+        "PowerShell": 21560,
+        "HTML": 366
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T22:33:56Z",
+      "url": "https://github.com/ak-asu/GameGenAI"
+    },
+    "892825675": {
+      "id": 892825675,
+      "name": "Arduino",
+      "display_name": "Arduino",
+      "description": "Arduino projects",
+      "summary": "Arduino projects",
+      "readme_sha": "3cf60b9b03ab0a376c63a27a29d481fdb59ce40a",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "C++": 14076
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-04-13T01:15:29Z",
+      "url": "https://github.com/ak-asu/Arduino"
+    },
+    "1208213707": {
+      "id": 1208213707,
+      "name": "carecallerai",
+      "display_name": "Carecallerai",
+      "description": "",
+      "summary": "Carecallerai — a TypeScript project by ak-asu.",
+      "readme_sha": "69dadfb7cf30474e479172d5181f95bf876b99ef",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "TypeScript": 279128,
+        "Jupyter Notebook": 81915,
+        "Python": 34275,
+        "JavaScript": 4396,
+        "CSS": 3178,
+        "PLpgSQL": 3037
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T21:34:39Z",
+      "url": "https://github.com/ak-asu/carecallerai"
+    },
+    "1075559834": {
+      "id": 1075559834,
+      "name": "Coderz-NMTSAEducationPlatfo",
+      "display_name": "Coderz Nmtsaeducationplatfo",
+      "description": "Repository for 2025_fall Hackathon, Coderz Team",
+      "summary": "Repository for 2025_fall Hackathon, Coderz Team",
+      "readme_sha": "064fb24267b2bf91563b23c994c191c729ea6175",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "HTML": 638813,
+        "Python": 332385,
+        "JavaScript": 169056,
+        "CSS": 153578
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": true,
+      "pushed_at": "2026-05-30T00:58:41Z",
+      "url": "https://github.com/ak-asu/Coderz-NMTSAEducationPlatfo"
+    },
+    "1093818812": {
+      "id": 1093818812,
+      "name": "visionforge",
+      "display_name": "Visionforge",
+      "description": "",
+      "summary": "Visionforge — a TypeScript project by ak-asu.",
+      "readme_sha": "061030835c56557a7ed3f494e794aa470f4db896",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "TypeScript": 881576,
+        "Python": 657029,
+        "Jinja": 48456,
+        "CSS": 21902,
+        "JavaScript": 6493,
+        "Shell": 1239,
+        "HTML": 673
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": true,
+      "pushed_at": "2026-05-13T15:35:41Z",
+      "url": "https://github.com/ak-asu/visionforge"
+    },
+    "1195601574": {
+      "id": 1195601574,
+      "name": "24-sync-solve",
+      "display_name": "24 Sync Solve",
+      "description": "2026_spring_wics_asu Hackathon - Team Sync&Solve",
+      "summary": "2026_spring_wics_asu Hackathon - Team Sync&Solve",
+      "readme_sha": "ee2d9f90f040d2a7687f05933ed6159e06e7d599",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "TypeScript": 1294495,
+        "PLpgSQL": 69715,
+        "CSS": 4869,
+        "JavaScript": 1594
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": true,
+      "pushed_at": "2026-05-30T02:46:02Z",
+      "url": "https://github.com/ak-asu/24-sync-solve"
+    },
+    "1193134859": {
+      "id": 1193134859,
+      "name": "shadow-committee",
+      "display_name": "Shadow Committee",
+      "description": "",
+      "summary": "Shadow Committee — a TypeScript project by ak-asu.",
+      "readme_sha": "bb8f1ca7b1c8bbae72ec6400901ce6aec72aac72",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "TypeScript": 287958,
+        "CSS": 8375,
+        "JavaScript": 365
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-03-26T23:02:14Z",
+      "url": "https://github.com/ak-asu/shadow-committee"
+    },
+    "1101020889": {
+      "id": 1101020889,
+      "name": "elektraz",
+      "display_name": "Elektraz",
+      "description": "",
+      "summary": "Elektraz — a Python project by ak-asu.",
+      "readme_sha": "3d557e66dccea26b912be6cbdc0ada65a45af888",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "Python": 158257,
+        "HTML": 123
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 1,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T23:06:40Z",
+      "url": "https://github.com/ak-asu/elektraz"
+    },
+    "856448981": {
+      "id": 856448981,
+      "name": "Context-Monitor",
+      "display_name": "Context Monitor",
+      "description": "Context monitoring android application",
+      "summary": "Context monitoring android application",
+      "readme_sha": "3ae6f686c52998acf3e1f280cbcd3312b5b3d0b5",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "Kotlin": 44463
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-02-11T01:03:30Z",
+      "url": "https://github.com/ak-asu/Context-Monitor"
+    },
+    "886283096": {
+      "id": 886283096,
+      "name": "skills-code-with-codespaces",
+      "display_name": "Skills Code With Codespaces",
+      "description": "My codespace clone repository",
+      "summary": "Clone repository for GitHub Codespaces, enabling streamlined coding and customization for developers. Enhances productivity and learning experience.",
+      "readme_sha": "3afdf2b19d3f3cfa1c2bbfee8be00ef40a2784f1",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "GitHub Codespaces",
+        "Shell Scripting",
+        "Development Environment"
+      ],
+      "languages": {
+        "Shell": 106,
+        "HTML": 52
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-12-01T02:21:48Z",
+      "url": "https://github.com/ak-asu/skills-code-with-codespaces"
+    },
+    "933384241": {
+      "id": 933384241,
+      "name": "VisionVault",
+      "display_name": "Visionvault",
+      "description": "AI-Powered Face Blurring with Cryptographic Access",
+      "summary": "Automatically blurs faces in videos for privacy, allowing secure access for authorized users. Ideal for personal safety and content moderation.",
+      "readme_sha": "ead87b3e57bed06c881550ca1039d92158fb7cef",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "Face Detection",
+        "Cryptography",
+        "Privacy",
+        "Computer Vision"
+      ],
+      "languages": {
+        "Python": 3715
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-02-15T22:16:37Z",
+      "url": "https://github.com/ak-asu/VisionVault"
+    },
+    "946136321": {
+      "id": 946136321,
+      "name": "book-recommender",
+      "display_name": "Book Recommender",
+      "description": "Uses AI to recommend books",
+      "summary": "BookTrack recommends books using AI, allowing users to search by mood or genre for personalized reading lists.",
+      "readme_sha": "b8af1dc61691da6aa376649c34823ea69276a34e",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Book Recommendations",
+        "AI",
+        "Full-Stack",
+        "TypeScript"
+      ],
+      "languages": {
+        "TypeScript": 259077,
+        "CSS": 2021,
+        "JavaScript": 904
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T23:55:05Z",
+      "url": "https://github.com/ak-asu/book-recommender"
+    },
+    "925372657": {
+      "id": 925372657,
+      "name": "public-releases",
+      "display_name": "Public Releases",
+      "description": "Downloadable software solutions",
+      "summary": "Provides a collection of downloadable software solutions for various needs, simplifying access to essential tools.",
+      "readme_sha": "59f86fe9834f7ce9aa25b4aee6bdc2f7b69a8e05",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Software Distribution",
+        "Downloadable Tools",
+        "Utility Software"
+      ],
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2025-05-19T05:05:00Z",
+      "url": "https://github.com/ak-asu/public-releases"
+    },
+    "1223668769": {
+      "id": 1223668769,
+      "name": "resumeclarity-skills",
+      "display_name": "Resumeclarity Skills",
+      "description": "Open source",
+      "summary": "Automates job search by scoring fits, generating resumes, and keeping your data local. Empower your job hunt securely.",
+      "readme_sha": "15059661e5a2be2588e57843a621d539d950a3e3",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Job Search Automation",
+        "Resume Builder",
+        "Local Data Processing"
+      ],
+      "languages": {
+        "Python": 32227,
+        "Shell": 6734,
+        "HTML": 3335
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": true,
+      "pushed_at": "2026-04-20T23:23:28Z",
+      "url": "https://github.com/ak-asu/resumeclarity-skills"
+    },
+    "1087925458": {
+      "id": 1087925458,
+      "name": "docuer",
+      "display_name": "Docuer",
+      "description": "",
+      "summary": "Docuer transforms documentation into personalized learning courses using AI, making learning engaging and efficient. It enhances knowledge retention through a dynamic knowledge graph.",
+      "readme_sha": "68cb32dabd8bf158d2eebfbb7e818ed5b5645f7d",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "AI",
+        "Knowledge Graph",
+        "Personalized Learning",
+        "Web Application"
+      ],
+      "languages": {
+        "TypeScript": 378295,
+        "JavaScript": 559,
+        "CSS": 56
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T22:11:02Z",
+      "url": "https://github.com/ak-asu/docuer"
+    },
+    "1081309247": {
+      "id": 1081309247,
+      "name": "ProjectIAM",
+      "display_name": "Projectiam",
+      "description": "",
+      "summary": "Unicredify enables universities to issue and verify academic credentials securely using decentralized technology, enhancing trust and privacy for students and employers.",
+      "readme_sha": "ac246cb453bdd84d73f37f933a6b90687ba82664",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "Decentralized Identity",
+        "Verifiable Credentials",
+        "Blockchain",
+        "Privacy Preservation"
+      ],
+      "languages": {
+        "TypeScript": 202861,
+        "Solidity": 16241,
+        "JavaScript": 11867,
+        "PLpgSQL": 5492,
+        "CSS": 379
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T20:50:45Z",
+      "url": "https://github.com/ak-asu/ProjectIAM"
+    },
+    "1253758115": {
+      "id": 1253758115,
+      "name": "basicparser",
+      "display_name": "Basicparser",
+      "description": "",
+      "summary": "This C++ parser interprets polynomial languages, validating syntax and executing tasks while tracking variables and errors.",
+      "readme_sha": "20271d540f5e978d58cd85785cf8aac04da711f2",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "C++",
+        "Parser",
+        "Compiler",
+        "Semantic Validation"
+      ],
+      "languages": {
+        "C++": 30609,
+        "Shell": 2011
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-29T20:01:21Z",
+      "url": "https://github.com/ak-asu/basicparser"
+    },
+    "1253970069": {
+      "id": 1253970069,
+      "name": "shadowpath",
+      "display_name": "Shadowpath",
+      "description": "",
+      "summary": "ShadowPath provides shade-aware routing on ASU Tempe campus, optimizing paths for thermal comfort and minimizing sun exposure.",
+      "readme_sha": "e6626e705202e87fb44b6367b9921c8b01de51ed",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Routing",
+        "Weather Data",
+        "User Experience"
+      ],
+      "languages": {
+        "TypeScript": 497596,
+        "CSS": 1433,
+        "JavaScript": 357
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T02:00:39Z",
+      "url": "https://github.com/ak-asu/shadowpath"
+    },
+    "1188280709": {
+      "id": 1188280709,
+      "name": "cloudforge",
+      "display_name": "Cloudforge",
+      "description": "",
+      "summary": "CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.",
+      "readme_sha": "da4a91a08f717dd682cfc4a0f07864b19ffc91c6",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "tools",
+      "tags": [
+        "Infrastructure as Code",
+        "AWS",
+        "Knowledge Graph"
+      ],
+      "languages": {
+        "Cypher": 3385035,
+        "TypeScript": 603241,
+        "Python": 526357,
+        "Jinja": 42966,
+        "CSS": 5963,
+        "Shell": 3461,
+        "JavaScript": 93
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T02:51:42Z",
+      "url": "https://github.com/ak-asu/cloudforge"
+    },
+    "1169485018": {
+      "id": 1169485018,
+      "name": "k8squest",
+      "display_name": "K8Squest",
+      "description": "K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required.",
+      "summary": "K8sQuest is a hands-on game for learning Kubernetes through real-world troubleshooting challenges. It’s engaging and cost-free.",
+      "readme_sha": "07b5485b463246416a37259036bd1755ecf3bd12",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "Kubernetes",
+        "Learning Game",
+        "Troubleshooting",
+        "Local Development"
+      ],
+      "languages": {
+        "Shell": 145686,
+        "Python": 98085
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": true,
+      "pushed_at": "2026-02-03T04:21:01Z",
+      "url": "https://github.com/ak-asu/k8squest"
+    }
+  }
 }
