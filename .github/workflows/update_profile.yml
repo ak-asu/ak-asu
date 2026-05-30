@@ -1,0 +1,44 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 2am UTC daily (offset from stats.yml at 3am)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  models: read        # GitHub Models API (openai/gpt-4o-mini)
+  discussions: read   # GitHub Discussions GraphQL (Guestbook)
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run profile update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: python scripts/update_profile.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md profile/projects.json profile/tech_base.json
+          git commit -m "chore: update profile sections [skip ci]" || exit 0
+          git push
