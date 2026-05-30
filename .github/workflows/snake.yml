@@ -37,7 +37,7 @@ jobs:
       
       # Push the generated files to output branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
