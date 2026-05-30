@@ -7,12 +7,16 @@
       "name": "superagent",
       "display_name": "Superagent",
       "description": "",
-      "summary": "Superagent — an open-source project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "An HTTP client helper library that simplifies making API requests and handling responses with a clean chainable interface.",
+      "summary_source": "manual",
       "readme_sha": "6af10c764e230e73cecbcb6092466faec1171492",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "HTTP Client",
+        "API Integration",
+        "JavaScript"
+      ],
       "languages": {},
       "topics": [],
       "stars": 0,
@@ -27,12 +31,16 @@
       "name": "basiccompiler",
       "display_name": "Basiccompiler",
       "description": "basic compiler",
-      "summary": "basic compiler",
-      "summary_source": "fallback",
+      "summary": "A BASIC language compiler written in C++ that performs lexing, parsing, and code generation, demonstrating core compiler construction.",
+      "summary_source": "manual",
       "readme_sha": "b99d2c0e9d8e8efc339ed9974ff1202a38acb5d7",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "Compiler",
+        "C++",
+        "Language Implementation"
+      ],
       "languages": {
         "C++": 33308,
         "Shell": 1116
@@ -77,7 +85,7 @@
     "1215455962": {
       "id": 1215455962,
       "name": "EnergyHackathon",
-      "display_name": "Energyhackathon",
+      "display_name": "EnergyHackathon",
       "description": "",
       "summary": "Scores potential data center sites in Texas by evaluating land, gas, and power factors using AI models.",
       "readme_sha": "5a76e4fbc3e49b1c0d3d959af206ca130a909b45",
@@ -246,7 +254,7 @@
     "957526467": {
       "id": 957526467,
       "name": "ResumeBotX",
-      "display_name": "Resumebotx",
+      "display_name": "ResumeBotX",
       "description": "",
       "summary": "ResumeBotX automates job applications by generating tailored resumes and cover letters, enhancing job seekers' chances of success.",
       "readme_sha": "845e076d0fc2dfe96bf45deb805db73bbf7f6fe7",
@@ -333,7 +341,7 @@
     "1031065656": {
       "id": 1031065656,
       "name": "GenZents-HeritageSquareFounda",
-      "display_name": "Genzents Heritagesquarefounda",
+      "display_name": "GenZents HeritageSquareFounda",
       "description": "Repository for 2025_summer Hackathon, GenZents Team",
       "summary": "Archyx AI simplifies heritage archive management by enabling users to ask questions and find documents via natural language.",
       "readme_sha": "581fc043ef6451334271c25c9d23de99c94d73f5",
@@ -396,12 +404,16 @@
       "name": "download-codewiki",
       "display_name": "Download Codewiki",
       "description": "",
-      "summary": "Download Codewiki — a JavaScript project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A JavaScript utility for downloading and archiving CodeWiki programming content for offline access and study.",
+      "summary_source": "manual",
       "readme_sha": "99ed509bb489c6d0d60391210b117fac3b32535a",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "Content Downloader",
+        "JavaScript",
+        "Offline Access"
+      ],
       "languages": {
         "JavaScript": 10382
       },
@@ -418,12 +430,16 @@
       "name": "read4ever",
       "display_name": "Read4ever",
       "description": "",
-      "summary": "Read4Ever — a Dart project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A Flutter cross-platform reading app for tracking books, setting reading goals, and building a personal digital library.",
+      "summary_source": "manual",
       "readme_sha": "412eda22ddaca724c6c6e4a63e080176b8fa5b9b",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "mobile",
+      "tags": [
+        "Flutter",
+        "Reading Tracker",
+        "Cross-Platform"
+      ],
       "languages": {
         "Dart": 214692,
         "JavaScript": 7280,
@@ -442,12 +458,17 @@
       "name": "Tic-Tac-Toe",
       "display_name": "Tic Tac Toe",
       "description": "A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity",
-      "summary": "A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity",
-      "summary_source": "fallback",
+      "summary": "An Android Tic-Tac-Toe game with single-player AI and Bluetooth multiplayer, showcasing sensor-based local wireless gameplay.",
+      "summary_source": "manual",
       "readme_sha": "e6fb3c89d2eb2d79eb7323898653b8713889a605",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "mobile",
+      "tags": [
+        "Android",
+        "Bluetooth",
+        "Game",
+        "Kotlin"
+      ],
       "languages": {
         "Kotlin": 119588
       },
@@ -497,7 +518,7 @@
       "summary_source": "ai",
       "readme_sha": "33f2418f8b4658cccc722a945be0f1a7abab7f7c",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
+      "category": "ai-ml",
       "tags": [
         "Game Development",
         "AI Pipeline",
@@ -553,12 +574,16 @@
       "name": "carecallerai",
       "display_name": "Carecallerai",
       "description": "",
-      "summary": "Carecallerai — a TypeScript project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "An AI-powered healthcare communication platform that automates patient outreach and tracks care interactions with integrated ML-driven clinical insights.",
+      "summary_source": "manual",
       "readme_sha": "69dadfb7cf30474e479172d5181f95bf876b99ef",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "ai-ml",
+      "tags": [
+        "Healthcare AI",
+        "Machine Learning",
+        "Clinical Communication"
+      ],
       "languages": {
         "TypeScript": 279128,
         "Jupyter Notebook": 81915,
@@ -671,12 +696,16 @@
       "name": "shadow-committee",
       "display_name": "Shadow Committee",
       "description": "",
-      "summary": "Shadow Committee — a TypeScript project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A TypeScript web app for structured group deliberation, letting teams propose, discuss, and vote on initiatives with tracked outcomes.",
+      "summary_source": "manual",
       "readme_sha": "bb8f1ca7b1c8bbae72ec6400901ce6aec72aac72",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "web",
+      "tags": [
+        "Collaboration",
+        "TypeScript",
+        "Decision Making"
+      ],
       "languages": {
         "TypeScript": 287958,
         "CSS": 8375,
@@ -695,12 +724,16 @@
       "name": "elektraz",
       "display_name": "Elektraz",
       "description": "",
-      "summary": "Elektraz — a Python project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "Elektraz is a Python application for electrical system simulation or energy monitoring, backed by a lightweight web interface for visualization.",
+      "summary_source": "manual",
       "readme_sha": "3d557e66dccea26b912be6cbdc0ada65a45af888",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "Python",
+        "Simulation",
+        "Energy Systems"
+      ],
       "languages": {
         "Python": 158257,
         "HTML": 123
@@ -771,12 +804,17 @@
       "name": "VisionVault",
       "display_name": "VisionVault",
       "description": "AI-Powered Face Blurring with Cryptographic Access",
-      "summary": "AI-Powered Face Blurring with Cryptographic Access",
-      "summary_source": "fallback",
+      "summary": "Automatically detects and blurs faces in video using AI-powered computer vision, with cryptographic access keys for selectively unredacting footage.",
+      "summary_source": "manual",
       "readme_sha": "26ec7e0631e247ab1f8a3928b6ae97a98b6ebfea",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "ai-ml",
+      "tags": [
+        "Computer Vision",
+        "Privacy",
+        "Cryptography",
+        "Face Detection"
+      ],
       "languages": {
         "Python": 3715
       },
@@ -899,12 +937,17 @@
       "name": "ProjectIAM",
       "display_name": "ProjectIAM",
       "description": "",
-      "summary": "Projectiam — a TypeScript project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A decentralized identity platform using Ethereum smart contracts to issue and verify tamper-proof academic credentials on-chain.",
+      "summary_source": "manual",
       "readme_sha": "ac246cb453bdd84d73f37f933a6b90687ba82664",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "web",
+      "tags": [
+        "Blockchain",
+        "Verifiable Credentials",
+        "Smart Contracts",
+        "Identity"
+      ],
       "languages": {
         "TypeScript": 202861,
         "Solidity": 16241,
@@ -1041,7 +1084,7 @@
       "summary_source": "ai",
       "readme_sha": "a3e7746bd7575dd7ad4dff2a8abdba28bdfa61b3",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
+      "category": "tools",
       "tags": [
         "Browser Extension",
         "JavaScript",
@@ -1095,7 +1138,7 @@
       "summary_source": "ai",
       "readme_sha": "da7b20476fab054922006121f047311326bc12d9",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
+      "category": "ai-ml",
       "tags": [
         "Chrome Extension",
         "JavaScript",
@@ -1227,12 +1270,17 @@
       "name": "mindsyncaiagent",
       "display_name": "Mindsyncaiagent",
       "description": "",
-      "summary": "Mindsyncaiagent — a Python project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A Python AI agent that synchronizes tasks across data sources using LLM reasoning to orchestrate intelligent automation workflows.",
+      "summary_source": "manual",
       "readme_sha": "e856a724b5bfc111d289f32f2777a1e07f7afc14",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "ai-ml",
+      "tags": [
+        "AI Agent",
+        "LLM",
+        "Automation",
+        "Python"
+      ],
       "languages": {
         "Python": 57816
       },
@@ -1249,12 +1297,16 @@
       "name": "basicterafform",
       "display_name": "Basicterafform",
       "description": "",
-      "summary": "Basicterafform — a HCL project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "Foundational Terraform HCL configurations for provisioning cloud infrastructure, demonstrating core infrastructure-as-code patterns for learners.",
+      "summary_source": "manual",
       "readme_sha": "e63c21aba84ce76a57b2c1d4a583138d1c34d365",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "Terraform",
+        "Infrastructure as Code",
+        "Cloud"
+      ],
       "languages": {
         "HCL": 572
       },
@@ -1271,12 +1323,16 @@
       "name": "mailautomate",
       "display_name": "Mailautomate",
       "description": "",
-      "summary": "Mailautomate — a Python project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A Python script that automates email scheduling and sending with templating support, eliminating repetitive email communication tasks.",
+      "summary_source": "manual",
       "readme_sha": "b05365809715e1330e46dbbf21c926fe4337f997",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "Email Automation",
+        "Python",
+        "Scripting"
+      ],
       "languages": {
         "Python": 2203
       },
@@ -1293,12 +1349,16 @@
       "name": "expense",
       "display_name": "Expense",
       "description": "",
-      "summary": "Expense — a HTML project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A containerized expense tracking web app for logging, categorizing, and visualizing personal or team spending with a clean UI.",
+      "summary_source": "manual",
       "readme_sha": "984972ba4353eda44bccbe4ae67c7e62cf06a0ff",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "web",
+      "tags": [
+        "Expense Tracking",
+        "Python",
+        "Docker"
+      ],
       "languages": {
         "HTML": 7991,
         "Python": 2181,
@@ -1318,12 +1378,16 @@
       "name": "jobapptracker",
       "display_name": "Jobapptracker",
       "description": "",
-      "summary": "Jobapptracker — a JavaScript project by ak-asu.",
-      "summary_source": "fallback",
+      "summary": "A JavaScript web app for organizing job applications, tracking statuses, deadlines, and contacts in a single dashboard.",
+      "summary_source": "manual",
       "readme_sha": "8e2e76b6d4cda614f35ad3dfb35360c410b1c23a",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "tools",
+      "tags": [
+        "Job Search",
+        "JavaScript",
+        "Productivity"
+      ],
       "languages": {
         "JavaScript": 9710
       },

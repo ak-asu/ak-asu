@@ -62,7 +62,7 @@ const ak_asu = {
 
 ### <a name="ai-ml"></a>🤖 AI / ML & Research
 <details open>
-<summary><b>15 projects</b></summary>
+<summary><b>20 projects</b></summary>
 <br/>
 <table>
   <tr>
@@ -90,11 +90,22 @@ const ak_asu = {
 <a href="https://github.com/ak-asu/EnergyHackathon">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=EnergyHackathon&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
-<h4><a href="https://github.com/ak-asu/EnergyHackathon">Energyhackathon</a></h4>
+<h4><a href="https://github.com/ak-asu/EnergyHackathon">EnergyHackathon</a></h4>
 <p>Scores potential data center sites in Texas by evaluating land, gas, and power factors using AI models.</p>
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Machine Learning</code> <code>Data Center</code> <code>Site Selection</code></p>
 <br clear="left"/>
     </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/carecallerai">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=carecallerai&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/carecallerai">Carecallerai</a></h4>
+<p>An AI-powered healthcare communication platform that automates patient outreach and tracks care interactions with integrated ML-driven clinical insights.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Healthcare AI</code> <code>Machine Learning</code> <code>Clinical Communication</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/docuer">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=docuer&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -104,13 +115,22 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>AI</code> <code>Knowledge Graph</code> <code>Personalized Learning</code> <code>Web Application</code></p>
 <br clear="left"/>
     </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/GameGenAI">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GameGenAI&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/GameGenAI">GameGenAI</a></h4>
+<p>GameGenAI transforms natural language prompts into playable 2D games instantly, streamlining game development for users and hobbyists alike.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Game Development</code> <code>AI Pipeline</code> <code>Full-Stack</code></p>
+<br clear="left"/>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/ResumeBotX">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=ResumeBotX&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
-<h4><a href="https://github.com/ak-asu/ResumeBotX">Resumebotx</a></h4>
+<h4><a href="https://github.com/ak-asu/ResumeBotX">ResumeBotX</a></h4>
 <p>ResumeBotX automates job applications by generating tailored resumes and cover letters, enhancing job seekers' chances of success.</p>
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Job Automation</code> <code>Resume Builder</code> <code>AI Scraping</code></p>
 <br clear="left"/>
@@ -130,7 +150,7 @@ const ak_asu = {
 <a href="https://github.com/ak-asu/GenZents-HeritageSquareFounda">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GenZents-HeritageSquareFounda&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
-<h4><a href="https://github.com/ak-asu/GenZents-HeritageSquareFounda">Genzents Heritagesquarefounda</a></h4>
+<h4><a href="https://github.com/ak-asu/GenZents-HeritageSquareFounda">GenZents HeritageSquareFounda</a></h4>
 <p>Archyx AI simplifies heritage archive management by enabling users to ask questions and find documents via natural language.</p>
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Conversational AI</code> <code>Google Drive</code> <code>TypeScript</code></p>
 <br clear="left"/>
@@ -176,6 +196,17 @@ const ak_asu = {
 <br clear="left"/>
     </td>
     <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/mindsyncaiagent">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mindsyncaiagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/mindsyncaiagent">Mindsyncaiagent</a></h4>
+<p>A Python AI agent that synchronizes tasks across data sources using LLM reasoning to orchestrate intelligent automation workflows.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>AI Agent</code> <code>LLM</code> <code>Automation</code> <code>Python</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/yolocv">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=yolocv&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -184,8 +215,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Object Detection</code> <code>YOLOv8</code> <code>OpenCV</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/projectstory">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=projectstory&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -195,6 +224,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>AI Narrative Generation</code> <code>React</code> <code>TypeScript</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/campusgpt">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=campusgpt&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -204,8 +235,26 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Chatbot</code> <code>Google Cloud</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/GeminiChatExtension">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GeminiChatExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/GeminiChatExtension">GeminiChatExtension</a></h4>
+<p>Gemini Chat Extension integrates Gemini 2.0 Flash into Chrome, providing persistent chat alongside any webpage for seamless interaction.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Chrome Extension</code> <code>JavaScript</code> <code>AI Assistant</code></p>
+<br clear="left"/>
+    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/VisionVault">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=VisionVault&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/VisionVault">VisionVault</a></h4>
+<p>Automatically detects and blurs faces in video using AI-powered computer vision, with cryptographic access keys for selectively unredacting footage.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Computer Vision</code> <code>Privacy</code> <code>Cryptography</code> <code>Face Detection</code></p>
+<br clear="left"/>
+    </td>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/moneynest">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=moneynest&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -215,7 +264,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Financial Wellness</code> <code>AI Assistant</code> <code>Interactive Learning</code></p>
 <br clear="left"/>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -248,6 +296,15 @@ const ak_asu = {
   </tr>
   <tr>
     <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/shadow-committee">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=shadow-committee&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/shadow-committee">Shadow Committee</a></h4>
+<p>A TypeScript web app for structured group deliberation, letting teams propose, discuss, and vote on initiatives with tracked outcomes.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Collaboration</code> <code>TypeScript</code> <code>Decision Making</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Portfolio">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Portfolio&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -256,17 +313,17 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Interactive Portfolio</code> <code>UI/UX</code> <code>React</code> <code>TypeScript</code></p>
 <br clear="left"/>
     </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/GameGenAI">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GameGenAI&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/GameGenAI">GameGenAI</a></h4>
-<p>GameGenAI transforms natural language prompts into playable 2D games instantly, streamlining game development for users and hobbyists alike.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Game Development</code> <code>AI Pipeline</code> <code>Full-Stack</code></p>
-<br clear="left"/>
-    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/ProjectIAM">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=ProjectIAM&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/ProjectIAM">ProjectIAM</a></h4>
+<p>A decentralized identity platform using Ethereum smart contracts to issue and verify tamper-proof academic credentials on-chain.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Blockchain</code> <code>Verifiable Credentials</code> <code>Smart Contracts</code> <code>Identity</code></p>
+<br clear="left"/>
+    </td>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Coderz-NMTSAEducationPlatfo">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Coderz-NMTSAEducationPlatfo&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -276,6 +333,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Learning Management System</code> <code>Django</code> <code>Accessibility</code> <code>Healthcare</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/shadowpath">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=shadowpath&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -285,8 +344,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Routing</code> <code>Weather Data</code> <code>User Experience</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/24-sync-solve">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=24-sync-solve&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -296,24 +353,15 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>AI Coach Discovery</code> <code>CMS</code> <code>Stripe Payments</code></p>
 <br clear="left"/>
     </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/GeminiChatExtension">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GeminiChatExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/GeminiChatExtension">GeminiChatExtension</a></h4>
-<p>Gemini Chat Extension integrates Gemini 2.0 Flash into Chrome, providing persistent chat alongside any webpage for seamless interaction.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Chrome Extension</code> <code>JavaScript</code> <code>AI Assistant</code></p>
-<br clear="left"/>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/FunTimerExtension">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=FunTimerExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+<a href="https://github.com/ak-asu/expense">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=expense&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
-<h4><a href="https://github.com/ak-asu/FunTimerExtension">FunTimerExtension</a></h4>
-<p>Fun Timer Extension overlays fun animations on web pages at scheduled times, enhancing productivity or adding a playful touch. It's a unique browser experience.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Browser Extension</code> <code>JavaScript</code> <code>Animations</code></p>
+<h4><a href="https://github.com/ak-asu/expense">Expense</a></h4>
+<p>A containerized expense tracking web app for logging, categorizing, and visualizing personal or team spending with a clean UI.</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Expense Tracking</code> <code>Python</code> <code>Docker</code></p>
 <br clear="left"/>
     </td>
     <td width="50%"></td>
@@ -324,7 +372,7 @@ const ak_asu = {
 
 ### <a name="tools"></a>🛠️ Tools & Utilities
 <details open>
-<summary><b>6 projects</b></summary>
+<summary><b>14 projects</b></summary>
 <br/>
 <table>
   <tr>
@@ -369,6 +417,15 @@ const ak_asu = {
   </tr>
   <tr>
     <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/download-codewiki">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=download-codewiki&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/download-codewiki">Download Codewiki</a></h4>
+<p>A JavaScript utility for downloading and archiving CodeWiki programming content for offline access and study.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Content Downloader</code> <code>JavaScript</code> <code>Offline Access</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/basicparser">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basicparser&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -377,6 +434,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>C++</code> <code>Parser</code> <code>Compiler</code> <code>Semantic Validation</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/parsergenerator">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=parsergenerator&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -386,6 +445,75 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>Grammar Analysis</code> <code>C++</code> <code>CLI Tool</code></p>
 <br clear="left"/>
     </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/elektraz">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=elektraz&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/elektraz">Elektraz</a></h4>
+<p>Elektraz is a Python application for electrical system simulation or energy monitoring, backed by a lightweight web interface for visualization.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Python</code> <code>Simulation</code> <code>Energy Systems</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/basicterafform">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basicterafform&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/basicterafform">Basicterafform</a></h4>
+<p>Foundational Terraform HCL configurations for provisioning cloud infrastructure, demonstrating core infrastructure-as-code patterns for learners.</p>
+<p><code>Terraform</code> <code>Infrastructure as Code</code> <code>Cloud</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/mailautomate">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mailautomate&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/mailautomate">Mailautomate</a></h4>
+<p>A Python script that automates email scheduling and sending with templating support, eliminating repetitive email communication tasks.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Email Automation</code> <code>Python</code> <code>Scripting</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/jobapptracker">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=jobapptracker&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/jobapptracker">Jobapptracker</a></h4>
+<p>A JavaScript web app for organizing job applications, tracking statuses, deadlines, and contacts in a single dashboard.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Job Search</code> <code>JavaScript</code> <code>Productivity</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/FunTimerExtension">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=FunTimerExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/FunTimerExtension">FunTimerExtension</a></h4>
+<p>Fun Timer Extension overlays fun animations on web pages at scheduled times, enhancing productivity or adding a playful touch. It's a unique browser experience.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Browser Extension</code> <code>JavaScript</code> <code>Animations</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/basiccompiler">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basiccompiler&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/basiccompiler">Basiccompiler</a></h4>
+<p>A BASIC language compiler written in C++ that performs lexing, parsing, and code generation, demonstrating core compiler construction.</p>
+<p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>Compiler</code> <code>C++</code> <code>Language Implementation</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/superagent">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=superagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/superagent">Superagent</a></h4>
+<p>An HTTP client helper library that simplifies making API requests and handling responses with a clean chainable interface.</p>
+<p><code>HTTP Client</code> <code>API Integration</code> <code>JavaScript</code></p>
+<br clear="left"/>
+    </td>
   </tr>
 </table>
 </details>
@@ -393,7 +521,7 @@ const ak_asu = {
 
 ### <a name="mobile"></a>📱 Mobile & Cross-Platform
 <details open>
-<summary><b>3 projects</b></summary>
+<summary><b>5 projects</b></summary>
 <br/>
 <table>
   <tr>
@@ -407,12 +535,32 @@ const ak_asu = {
 <br clear="left"/>
     </td>
     <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/read4ever">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=read4ever&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/read4ever">Read4ever</a></h4>
+<p>A Flutter cross-platform reading app for tracking books, setting reading goals, and building a personal digital library.</p>
+<p><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> &nbsp; <code>Flutter</code> <code>Reading Tracker</code> <code>Cross-Platform</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Context-Monitor">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Context-Monitor&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
 <h4><a href="https://github.com/ak-asu/Context-Monitor">Context Monitor</a></h4>
 <p>This Android app tracks heart and respiratory rates using built-in sensors, enabling easy health monitoring without wearables.</p>
 <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> &nbsp; <code>Health Monitoring</code> <code>Android App</code> <code>Vital Signs</code> <code>Sensor Processing</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/Tic-Tac-Toe">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Tic-Tac-Toe&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/Tic-Tac-Toe">Tic Tac Toe</a></h4>
+<p>An Android Tic-Tac-Toe game with single-player AI and Bluetooth multiplayer, showcasing sensor-based local wireless gameplay.</p>
+<p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> &nbsp; <code>Android</code> <code>Bluetooth</code> <code>Game</code> <code>Kotlin</code></p>
 <br clear="left"/>
     </td>
   </tr>
@@ -434,108 +582,9 @@ const ak_asu = {
 
 ### <a name="other"></a>📦 Other
 <details open>
-<summary><b>17 projects</b></summary>
+<summary><b>2 projects</b></summary>
 <br/>
 <table>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/shadow-committee">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=shadow-committee&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/shadow-committee">Shadow Committee</a></h4>
-<p>Shadow Committee — a TypeScript project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/download-codewiki">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=download-codewiki&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/download-codewiki">Download Codewiki</a></h4>
-<p>Download Codewiki — a JavaScript project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/ProjectIAM">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=ProjectIAM&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/ProjectIAM">ProjectIAM</a></h4>
-<p>Projectiam — a TypeScript project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/carecallerai">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=carecallerai&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/carecallerai">Carecallerai</a></h4>
-<p>Carecallerai — a TypeScript project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/elektraz">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=elektraz&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/elektraz">Elektraz</a></h4>
-<p>Elektraz — a Python project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/read4ever">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=read4ever&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/read4ever">Read4ever</a></h4>
-<p>Read4Ever — a Dart project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/Tic-Tac-Toe">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Tic-Tac-Toe&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/Tic-Tac-Toe">Tic Tac Toe</a></h4>
-<p>A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity</p>
-<p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/basicterafform">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basicterafform&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/basicterafform">Basicterafform</a></h4>
-<p>Basicterafform — a HCL project by ak-asu.</p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/mailautomate">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mailautomate&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/mailautomate">Mailautomate</a></h4>
-<p>Mailautomate — a Python project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/mindsyncaiagent">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mindsyncaiagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/mindsyncaiagent">Mindsyncaiagent</a></h4>
-<p>Mindsyncaiagent — a Python project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/forgequest">
@@ -547,37 +596,6 @@ const ak_asu = {
 <br clear="left"/>
     </td>
     <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/jobapptracker">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=jobapptracker&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/jobapptracker">Jobapptracker</a></h4>
-<p>Jobapptracker — a JavaScript project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/expense">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=expense&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/expense">Expense</a></h4>
-<p>Expense — a HTML project by ak-asu.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/VisionVault">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=VisionVault&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/VisionVault">VisionVault</a></h4>
-<p>AI-Powered Face Blurring with Cryptographic Access</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Arduino">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Arduino&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -586,26 +604,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>IoT</code> <code>Arduino</code> <code>ESP32</code> <code>Wireless Communication</code></p>
 <br clear="left"/>
     </td>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/basiccompiler">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basiccompiler&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/basiccompiler">Basiccompiler</a></h4>
-<p>basic compiler</p>
-<p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></p>
-<br clear="left"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/superagent">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=superagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/superagent">Superagent</a></h4>
-<p>Superagent — an open-source project by ak-asu.</p>
-<br clear="left"/>
-    </td>
-    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -698,8 +696,8 @@ const ak_asu = {
 <!-- CURRENT:START -->
 ### 🔭 Working On
 - **[Moneynest](https://github.com/ak-asu/moneynest)** — MoneyNest is a financial wellness app that personalizes budgeting and learning through interactive simulations and AI-driven guidance.
-- **[Superagent](https://github.com/ak-asu/superagent)** — Superagent — an open-source project by ak-asu.
-- **[Basiccompiler](https://github.com/ak-asu/basiccompiler)** — basic compiler
+- **[Superagent](https://github.com/ak-asu/superagent)** — An HTTP client helper library that simplifies making API requests and handling responses with a clean chainable interface.
+- **[Basiccompiler](https://github.com/ak-asu/basiccompiler)** — A BASIC language compiler written in C++ that performs lexing, parsing, and code generation, demonstrating core compiler construction.
 - **[Arduino](https://github.com/ak-asu/Arduino)** — Explore IoT with Arduino projects, from remote LED control to emergency alerts, showcasing practical hardware applications.
 <!-- CURRENT:END -->
 
