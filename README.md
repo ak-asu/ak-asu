@@ -56,8 +56,17 @@ const ak_asu = {
 
 ---
 
+## 🗂️ **Projects**
+
+<!-- PROJECTS:START -->
+*Loading projects... Run the workflow to populate this section.*
+<!-- PROJECTS:END -->
+
+---
+
 ## 💻 **Tech Stack & Skills**
 
+<!-- TECHSTACK:START -->
 <details open>
 <summary><b>🎨 Frontend Development</b></summary>
 <br/>
@@ -151,6 +160,7 @@ const ak_asu = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
+<!-- TECHSTACK:END -->
 
 ---
 
@@ -178,11 +188,13 @@ const ak_asu = {
 <tr>
 <td width="50%">
 
+<!-- CURRENT:START -->
 ### 🔭 Working On
 - 🚀 Building scalable web applications
 - 🌐 Exploring cloud-native architectures
 - 📱 Mobile app development with cross-platform frameworks
 - 🔐 Implementing secure authentication systems
+<!-- CURRENT:END -->
 
 </td>
 <td width="50%">
@@ -213,6 +225,14 @@ const ak_asu = {
 | 🤝 **Collaboration** | Agile/Scrum, Team Leadership, Code Reviews, Mentoring |
 
 </div>
+
+---
+
+## 💬 **Guestbook**
+
+<!-- GUESTBOOK:START -->
+👋 [Be the first to leave a note!](https://github.com/ak-asu/ak-asu/discussions) — Enable Discussions on this repo to activate the guestbook.
+<!-- GUESTBOOK:END -->
 
 ---
 
