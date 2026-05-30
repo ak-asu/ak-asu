@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:40:54.633237+00:00",
+  "last_updated": "2026-05-30T17:05:54.345370+00:00",
   "guestbook_discussion_number": 4,
   "repos": {
     "1148426086": {
@@ -7,22 +7,19 @@
       "name": "superagent",
       "display_name": "Superagent",
       "description": "",
-      "summary": "Superagent simplifies HTTP requests, making it easy to send and receive data from APIs. It's lightweight and user-friendly.",
-      "readme_sha": "39d608acc2dc3ff629d7127f7678af6069d5a9f0",
+      "summary": "Superagent — an open-source project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "6af10c764e230e73cecbcb6092466faec1171492",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
-      "tags": [
-        "HTTP Requests",
-        "API Integration",
-        "JavaScript"
-      ],
+      "category": "other",
+      "tags": [],
       "languages": {},
       "topics": [],
       "stars": 0,
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2026-02-08T16:42:30Z",
+      "pushed_at": "2026-05-30T16:43:43Z",
       "url": "https://github.com/ak-asu/superagent"
     },
     "986794823": {
@@ -30,15 +27,12 @@
       "name": "basiccompiler",
       "display_name": "Basiccompiler",
       "description": "basic compiler",
-      "summary": "A simple compiler that translates basic programming language syntax into machine code, demonstrating foundational compiler design principles.",
-      "readme_sha": null,
+      "summary": "basic compiler",
+      "summary_source": "fallback",
+      "readme_sha": "b99d2c0e9d8e8efc339ed9974ff1202a38acb5d7",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
-      "tags": [
-        "Compiler Design",
-        "C++",
-        "Programming Language"
-      ],
+      "category": "other",
+      "tags": [],
       "languages": {
         "C++": 33308,
         "Shell": 1116
@@ -48,7 +42,7 @@
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2025-05-20T06:19:22Z",
+      "pushed_at": "2026-05-30T16:39:16Z",
       "url": "https://github.com/ak-asu/basiccompiler"
     },
     "940323519": {
@@ -165,38 +159,6 @@
       "pushed_at": "2025-12-01T06:42:31Z",
       "url": "https://github.com/ak-asu/skills-copilot-codespaces-vscode"
     },
-    "947638170": {
-      "id": 947638170,
-      "name": "SmallProjects",
-      "display_name": "Smallprojects",
-      "description": "",
-      "summary": "A collection of small projects showcasing various programming concepts and technologies for learning and experimentation.",
-      "readme_sha": "1aa9296209a5a6c941ec9300217f2bda06d2cf25",
-      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [
-        "Learning Projects",
-        "Python",
-        "Programming Concepts"
-      ],
-      "languages": {
-        "Python": 63102,
-        "JavaScript": 54050,
-        "TypeScript": 46539,
-        "HTML": 13591,
-        "CSS": 9747,
-        "HCL": 572,
-        "Dockerfile": 510,
-        "Shell": 75
-      },
-      "topics": [],
-      "stars": 0,
-      "forks_count": 0,
-      "archived": false,
-      "is_fork": false,
-      "pushed_at": "2026-03-04T18:15:16Z",
-      "url": "https://github.com/ak-asu/SmallProjects"
-    },
     "1253758996": {
       "id": 1253758996,
       "name": "parsergenerator",
@@ -260,14 +222,15 @@
       "name": "notesummarizer",
       "display_name": "Notesummarizer",
       "description": "Summarize notes using gemini",
-      "summary": "Summarizes notes from various sources into concise formats, enhancing productivity through voiceovers and export options.",
-      "readme_sha": "fd6e92d00ed65f4664bace76c0d9f7c321342b33",
+      "summary": "Summarizes notes and documents using Gemini, supporting multiple input types and customizable outputs. Ideal for students and researchers.",
+      "summary_source": "ai",
+      "readme_sha": "db7834ff62e443698cde7ecdcea0f3aa4c0df9c5",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "ai-ml",
       "tags": [
-        "Note Summarization",
-        "Voiceover",
-        "Text Processing"
+        "Machine Learning",
+        "Text Summarization",
+        "Streamlit App"
       ],
       "languages": {
         "Python": 15374
@@ -277,7 +240,7 @@
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2025-02-03T06:20:44Z",
+      "pushed_at": "2026-05-30T06:11:41Z",
       "url": "https://github.com/ak-asu/notesummarizer"
     },
     "957526467": {
@@ -434,6 +397,7 @@
       "display_name": "Download Codewiki",
       "description": "",
       "summary": "Download Codewiki — a JavaScript project by ak-asu.",
+      "summary_source": "fallback",
       "readme_sha": "99ed509bb489c6d0d60391210b117fac3b32535a",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
@@ -447,15 +411,15 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-08T19:48:17Z",
-      "url": "https://github.com/ak-asu/download-codewiki",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/download-codewiki"
     },
     "1198668622": {
       "id": 1198668622,
       "name": "read4ever",
-      "display_name": "Read4Ever",
+      "display_name": "Read4ever",
       "description": "",
       "summary": "Read4Ever — a Dart project by ak-asu.",
+      "summary_source": "fallback",
       "readme_sha": "412eda22ddaca724c6c6e4a63e080176b8fa5b9b",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
@@ -471,8 +435,7 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-30T02:12:52Z",
-      "url": "https://github.com/ak-asu/read4ever",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/read4ever"
     },
     "862505869": {
       "id": 862505869,
@@ -480,7 +443,8 @@
       "display_name": "Tic Tac Toe",
       "description": "A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity",
       "summary": "A Tic-Tac-Toe Single and Multiplayer Game with Bluetooth Connectivity",
-      "readme_sha": "5afe41fa37e9a2ba97ccdc6005369ae5819144c1",
+      "summary_source": "fallback",
+      "readme_sha": "e6fb3c89d2eb2d79eb7323898653b8713889a605",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
       "tags": [],
@@ -492,20 +456,24 @@
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2025-02-11T00:53:58Z",
-      "url": "https://github.com/ak-asu/Tic-Tac-Toe",
-      "summary_source": "fallback"
+      "pushed_at": "2026-05-30T06:37:21Z",
+      "url": "https://github.com/ak-asu/Tic-Tac-Toe"
     },
     "1201327556": {
       "id": 1201327556,
       "name": "moneynest",
       "display_name": "Moneynest",
       "description": "",
-      "summary": "Moneynest — a TypeScript project by ak-asu.",
-      "readme_sha": "221d9473aab93354034d97cb8702f4b391caa4dc",
+      "summary": "MoneyNest is a financial wellness app that personalizes budgeting and learning through interactive simulations and AI-driven guidance.",
+      "summary_source": "ai",
+      "readme_sha": "43b0b34e9e58f1208536592c293718fab44a800e",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "ai-ml",
+      "tags": [
+        "Financial Wellness",
+        "AI Assistant",
+        "Interactive Learning"
+      ],
       "languages": {
         "TypeScript": 718106,
         "CSS": 11722,
@@ -517,20 +485,24 @@
       "forks_count": 1,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2026-05-29T22:14:02Z",
-      "url": "https://github.com/ak-asu/moneynest",
-      "summary_source": "fallback"
+      "pushed_at": "2026-05-30T17:03:30Z",
+      "url": "https://github.com/ak-asu/moneynest"
     },
     "1172812604": {
       "id": 1172812604,
       "name": "GameGenAI",
-      "display_name": "Gamegenai",
+      "display_name": "GameGenAI",
       "description": "",
-      "summary": "Gamegenai — a TypeScript project by ak-asu.",
+      "summary": "GameGenAI transforms natural language prompts into playable 2D games instantly, streamlining game development for users and hobbyists alike.",
+      "summary_source": "ai",
       "readme_sha": "33f2418f8b4658cccc722a945be0f1a7abab7f7c",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "web",
+      "tags": [
+        "Game Development",
+        "AI Pipeline",
+        "Full-Stack"
+      ],
       "languages": {
         "TypeScript": 1542490,
         "JavaScript": 364408,
@@ -547,19 +519,24 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T22:33:56Z",
-      "url": "https://github.com/ak-asu/GameGenAI",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/GameGenAI"
     },
     "892825675": {
       "id": 892825675,
       "name": "Arduino",
       "display_name": "Arduino",
       "description": "Arduino projects",
-      "summary": "Arduino projects",
-      "readme_sha": "3cf60b9b03ab0a376c63a27a29d481fdb59ce40a",
+      "summary": "Explore IoT with Arduino projects, from remote LED control to emergency alerts, showcasing practical hardware applications.",
+      "summary_source": "ai",
+      "readme_sha": "da57b008ad05393c2c84529986ff9cc98b60b350",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
-      "tags": [],
+      "tags": [
+        "IoT",
+        "Arduino",
+        "ESP32",
+        "Wireless Communication"
+      ],
       "languages": {
         "C++": 14076
       },
@@ -568,9 +545,8 @@
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2025-04-13T01:15:29Z",
-      "url": "https://github.com/ak-asu/Arduino",
-      "summary_source": "fallback"
+      "pushed_at": "2026-05-30T16:31:14Z",
+      "url": "https://github.com/ak-asu/Arduino"
     },
     "1208213707": {
       "id": 1208213707,
@@ -578,6 +554,7 @@
       "display_name": "Carecallerai",
       "description": "",
       "summary": "Carecallerai — a TypeScript project by ak-asu.",
+      "summary_source": "fallback",
       "readme_sha": "69dadfb7cf30474e479172d5181f95bf876b99ef",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
@@ -596,19 +573,24 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T21:34:39Z",
-      "url": "https://github.com/ak-asu/carecallerai",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/carecallerai"
     },
     "1075559834": {
       "id": 1075559834,
       "name": "Coderz-NMTSAEducationPlatfo",
-      "display_name": "Coderz Nmtsaeducationplatfo",
+      "display_name": "Coderz NMTSAEducationPlatfo",
       "description": "Repository for 2025_fall Hackathon, Coderz Team",
-      "summary": "Repository for 2025_fall Hackathon, Coderz Team",
+      "summary": "An accessibility-first LMS for Neurologic Music Therapy education, enhancing learning for professionals and clients. Awarded 2nd place at Opportunity Hack 2025.",
+      "summary_source": "ai",
       "readme_sha": "064fb24267b2bf91563b23c994c191c729ea6175",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "web",
+      "tags": [
+        "Learning Management System",
+        "Django",
+        "Accessibility",
+        "Healthcare"
+      ],
       "languages": {
         "HTML": 638813,
         "Python": 332385,
@@ -621,19 +603,23 @@
       "archived": false,
       "is_fork": true,
       "pushed_at": "2026-05-30T00:58:41Z",
-      "url": "https://github.com/ak-asu/Coderz-NMTSAEducationPlatfo",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/Coderz-NMTSAEducationPlatfo"
     },
     "1093818812": {
       "id": 1093818812,
       "name": "visionforge",
       "display_name": "Visionforge",
       "description": "",
-      "summary": "Visionforge — a TypeScript project by ak-asu.",
+      "summary": "Design deep learning models visually and export production-ready code in PyTorch or TensorFlow. Ideal for rapid prototyping.",
+      "summary_source": "ai",
       "readme_sha": "061030835c56557a7ed3f494e794aa470f4db896",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "ai-ml",
+      "tags": [
+        "Neural Networks",
+        "Visual Builder",
+        "Deep Learning"
+      ],
       "languages": {
         "TypeScript": 881576,
         "Python": 657029,
@@ -649,19 +635,23 @@
       "archived": false,
       "is_fork": true,
       "pushed_at": "2026-05-13T15:35:41Z",
-      "url": "https://github.com/ak-asu/visionforge",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/visionforge"
     },
     "1195601574": {
       "id": 1195601574,
       "name": "24-sync-solve",
       "display_name": "24 Sync Solve",
       "description": "2026_spring_wics_asu Hackathon - Team Sync&Solve",
-      "summary": "2026_spring_wics_asu Hackathon - Team Sync&Solve",
+      "summary": "A platform for a global coaching network, featuring AI coach discovery, CMS, and payment integration. It enhances brand consistency and local autonomy.",
+      "summary_source": "ai",
       "readme_sha": "ee2d9f90f040d2a7687f05933ed6159e06e7d599",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "web",
+      "tags": [
+        "AI Coach Discovery",
+        "CMS",
+        "Stripe Payments"
+      ],
       "languages": {
         "TypeScript": 1294495,
         "PLpgSQL": 69715,
@@ -674,8 +664,7 @@
       "archived": false,
       "is_fork": true,
       "pushed_at": "2026-05-30T02:46:02Z",
-      "url": "https://github.com/ak-asu/24-sync-solve",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/24-sync-solve"
     },
     "1193134859": {
       "id": 1193134859,
@@ -683,6 +672,7 @@
       "display_name": "Shadow Committee",
       "description": "",
       "summary": "Shadow Committee — a TypeScript project by ak-asu.",
+      "summary_source": "fallback",
       "readme_sha": "bb8f1ca7b1c8bbae72ec6400901ce6aec72aac72",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
@@ -698,8 +688,7 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-03-26T23:02:14Z",
-      "url": "https://github.com/ak-asu/shadow-committee",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/shadow-committee"
     },
     "1101020889": {
       "id": 1101020889,
@@ -707,6 +696,7 @@
       "display_name": "Elektraz",
       "description": "",
       "summary": "Elektraz — a Python project by ak-asu.",
+      "summary_source": "fallback",
       "readme_sha": "3d557e66dccea26b912be6cbdc0ada65a45af888",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
@@ -721,19 +711,24 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T23:06:40Z",
-      "url": "https://github.com/ak-asu/elektraz",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/elektraz"
     },
     "856448981": {
       "id": 856448981,
       "name": "Context-Monitor",
       "display_name": "Context Monitor",
       "description": "Context monitoring android application",
-      "summary": "Context monitoring android application",
-      "readme_sha": "3ae6f686c52998acf3e1f280cbcd3312b5b3d0b5",
+      "summary": "This Android app tracks heart and respiratory rates using built-in sensors, enabling easy health monitoring without wearables.",
+      "summary_source": "ai",
+      "readme_sha": "966693bacc70e3746ab96c09d584ad13daf1efee",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
-      "tags": [],
+      "category": "mobile",
+      "tags": [
+        "Health Monitoring",
+        "Android App",
+        "Vital Signs",
+        "Sensor Processing"
+      ],
       "languages": {
         "Kotlin": 44463
       },
@@ -742,9 +737,8 @@
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2025-02-11T01:03:30Z",
-      "url": "https://github.com/ak-asu/Context-Monitor",
-      "summary_source": "fallback"
+      "pushed_at": "2026-05-30T06:32:46Z",
+      "url": "https://github.com/ak-asu/Context-Monitor"
     },
     "886283096": {
       "id": 886283096,
@@ -775,18 +769,14 @@
     "933384241": {
       "id": 933384241,
       "name": "VisionVault",
-      "display_name": "Visionvault",
+      "display_name": "VisionVault",
       "description": "AI-Powered Face Blurring with Cryptographic Access",
-      "summary": "Automatically blurs faces in videos for privacy, allowing secure access for authorized users. Ideal for personal safety and content moderation.",
-      "readme_sha": "ead87b3e57bed06c881550ca1039d92158fb7cef",
+      "summary": "AI-Powered Face Blurring with Cryptographic Access",
+      "summary_source": "fallback",
+      "readme_sha": "26ec7e0631e247ab1f8a3928b6ae97a98b6ebfea",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "ai-ml",
-      "tags": [
-        "Face Detection",
-        "Cryptography",
-        "Privacy",
-        "Computer Vision"
-      ],
+      "category": "other",
+      "tags": [],
       "languages": {
         "Python": 3715
       },
@@ -795,7 +785,7 @@
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2025-02-15T22:16:37Z",
+      "pushed_at": "2026-05-30T16:21:18Z",
       "url": "https://github.com/ak-asu/VisionVault"
     },
     "946136321": {
@@ -907,18 +897,14 @@
     "1081309247": {
       "id": 1081309247,
       "name": "ProjectIAM",
-      "display_name": "Projectiam",
+      "display_name": "ProjectIAM",
       "description": "",
-      "summary": "Unicredify enables universities to issue and verify academic credentials securely using decentralized technology, enhancing trust and privacy for students and employers.",
+      "summary": "Projectiam — a TypeScript project by ak-asu.",
+      "summary_source": "fallback",
       "readme_sha": "ac246cb453bdd84d73f37f933a6b90687ba82664",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "category": "other",
-      "tags": [
-        "Decentralized Identity",
-        "Verifiable Credentials",
-        "Blockchain",
-        "Privacy Preservation"
-      ],
+      "tags": [],
       "languages": {
         "TypeScript": 202861,
         "Solidity": 16241,
@@ -932,8 +918,7 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T20:50:45Z",
-      "url": "https://github.com/ak-asu/ProjectIAM",
-      "summary_source": "fallback"
+      "url": "https://github.com/ak-asu/ProjectIAM"
     },
     "1253758115": {
       "id": 1253758115,
@@ -1046,6 +1031,309 @@
       "is_fork": true,
       "pushed_at": "2026-02-03T04:21:01Z",
       "url": "https://github.com/ak-asu/k8squest"
+    },
+    "1254115968": {
+      "id": 1254115968,
+      "name": "FunTimerExtension",
+      "display_name": "FunTimerExtension",
+      "description": "",
+      "summary": "Fun Timer Extension overlays fun animations on web pages at scheduled times, enhancing productivity or adding a playful touch. It's a unique browser experience.",
+      "summary_source": "ai",
+      "readme_sha": "a3e7746bd7575dd7ad4dff2a8abdba28bdfa61b3",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Browser Extension",
+        "JavaScript",
+        "Animations"
+      ],
+      "languages": {
+        "JavaScript": 12733,
+        "CSS": 3570,
+        "HTML": 216
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T16:30:04Z",
+      "url": "https://github.com/ak-asu/FunTimerExtension"
+    },
+    "1254117198": {
+      "id": 1254117198,
+      "name": "forgequest",
+      "display_name": "Forgequest",
+      "description": "",
+      "summary": "ForgeQuest is a math quiz game for Confluence that adapts difficulty as players progress, enhancing engagement and learning.",
+      "summary_source": "ai",
+      "readme_sha": "2c1d31eac55cedf739a08ebc84d3122f4f079842",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [
+        "Game",
+        "Confluence",
+        "JavaScript"
+      ],
+      "languages": {
+        "JavaScript": 9743
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T07:18:41Z",
+      "url": "https://github.com/ak-asu/forgequest"
+    },
+    "1254116239": {
+      "id": 1254116239,
+      "name": "GeminiChatExtension",
+      "display_name": "GeminiChatExtension",
+      "description": "",
+      "summary": "Gemini Chat Extension integrates Gemini 2.0 Flash into Chrome, providing persistent chat alongside any webpage for seamless interaction.",
+      "summary_source": "ai",
+      "readme_sha": "da7b20476fab054922006121f047311326bc12d9",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "web",
+      "tags": [
+        "Chrome Extension",
+        "JavaScript",
+        "AI Assistant"
+      ],
+      "languages": {
+        "JavaScript": 14146,
+        "HTML": 5476,
+        "CSS": 5029
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T16:18:46Z",
+      "url": "https://github.com/ak-asu/GeminiChatExtension"
+    },
+    "1254118394": {
+      "id": 1254118394,
+      "name": "projectstory",
+      "display_name": "Projectstory",
+      "description": "",
+      "summary": "Transform documents into structured narratives with AI, tailored for your audience, featuring an engaging glassmorphism UI.",
+      "summary_source": "ai",
+      "readme_sha": "5e5008ef951819dd114f5d3870fe2bdd3786130c",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "AI Narrative Generation",
+        "React",
+        "TypeScript"
+      ],
+      "languages": {
+        "TypeScript": 46539,
+        "CSS": 1148,
+        "JavaScript": 894,
+        "HTML": 361
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T07:18:37Z",
+      "url": "https://github.com/ak-asu/projectstory"
+    },
+    "1254116435": {
+      "id": 1254116435,
+      "name": "SplitwiseAI",
+      "display_name": "SplitwiseAI",
+      "description": "",
+      "summary": "SplitwiseAI simplifies splitting restaurant bills by using a photo and text description to calculate shares instantly.",
+      "summary_source": "ai",
+      "readme_sha": "aa0fa7408c9b10ba56c74043d5685a50af47b5e8",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "mobile",
+      "tags": [
+        "Machine Learning",
+        "React Native",
+        "Image Processing"
+      ],
+      "languages": {
+        "JavaScript": 9851
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T16:10:06Z",
+      "url": "https://github.com/ak-asu/SplitwiseAI"
+    },
+    "1254116808": {
+      "id": 1254116808,
+      "name": "campusgpt",
+      "display_name": "Campusgpt",
+      "description": "",
+      "summary": "CampusGPT is a chatbot for ASU students, providing quick answers using Google Vertex AI, enhancing student support and accessibility.",
+      "summary_source": "ai",
+      "readme_sha": "5024f1610b616d1b84062adb4c2f94fffefeb47c",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "Chatbot",
+        "Google Cloud",
+        "AI Assistant"
+      ],
+      "languages": {
+        "Python": 909,
+        "Dockerfile": 210
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T15:51:15Z",
+      "url": "https://github.com/ak-asu/campusgpt"
+    },
+    "1254118567": {
+      "id": 1254118567,
+      "name": "yolocv",
+      "display_name": "Yolocv",
+      "description": "",
+      "summary": "Detect objects in images and live feeds using YOLOv8 with custom OpenCV rendering. Ideal for learning model APIs and frame manipulation.",
+      "summary_source": "ai",
+      "readme_sha": "9b17297ec11d2c54d92289c3798672f9f04ff601",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "ai-ml",
+      "tags": [
+        "Object Detection",
+        "YOLOv8",
+        "OpenCV"
+      ],
+      "languages": {
+        "Python": 1580
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T07:10:39Z",
+      "url": "https://github.com/ak-asu/yolocv"
+    },
+    "1254118238": {
+      "id": 1254118238,
+      "name": "mindsyncaiagent",
+      "display_name": "Mindsyncaiagent",
+      "description": "",
+      "summary": "Mindsyncaiagent — a Python project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "e856a724b5bfc111d289f32f2777a1e07f7afc14",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "Python": 57816
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T07:10:36Z",
+      "url": "https://github.com/ak-asu/mindsyncaiagent"
+    },
+    "1254116620": {
+      "id": 1254116620,
+      "name": "basicterafform",
+      "display_name": "Basicterafform",
+      "description": "",
+      "summary": "Basicterafform — a HCL project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "e63c21aba84ce76a57b2c1d4a583138d1c34d365",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "HCL": 572
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T07:10:24Z",
+      "url": "https://github.com/ak-asu/basicterafform"
+    },
+    "1254118083": {
+      "id": 1254118083,
+      "name": "mailautomate",
+      "display_name": "Mailautomate",
+      "description": "",
+      "summary": "Mailautomate — a Python project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "b05365809715e1330e46dbbf21c926fe4337f997",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "Python": 2203
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T07:10:34Z",
+      "url": "https://github.com/ak-asu/mailautomate"
+    },
+    "1254116995": {
+      "id": 1254116995,
+      "name": "expense",
+      "display_name": "Expense",
+      "description": "",
+      "summary": "Expense — a HTML project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "984972ba4353eda44bccbe4ae67c7e62cf06a0ff",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "HTML": 7991,
+        "Python": 2181,
+        "Dockerfile": 254,
+        "Shell": 75
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T15:48:30Z",
+      "url": "https://github.com/ak-asu/expense"
+    },
+    "1254117535": {
+      "id": 1254117535,
+      "name": "jobapptracker",
+      "display_name": "Jobapptracker",
+      "description": "",
+      "summary": "Jobapptracker — a JavaScript project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "8e2e76b6d4cda614f35ad3dfb35360c410b1c23a",
+      "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "other",
+      "tags": [],
+      "languages": {
+        "JavaScript": 9710
+      },
+      "topics": [],
+      "stars": 0,
+      "forks_count": 0,
+      "archived": false,
+      "is_fork": false,
+      "pushed_at": "2026-05-30T15:41:40Z",
+      "url": "https://github.com/ak-asu/jobapptracker"
     }
   }
 }
