@@ -259,7 +259,7 @@
       "summary": "ResumeBotX automates job applications by generating tailored resumes and cover letters, enhancing job seekers' chances of success.",
       "readme_sha": "845e076d0fc2dfe96bf45deb805db73bbf7f6fe7",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "ai-ml",
+      "category": "web",
       "tags": [
         "Job Automation",
         "Resume Builder",
@@ -700,7 +700,7 @@
       "summary_source": "manual",
       "readme_sha": "bb8f1ca7b1c8bbae72ec6400901ce6aec72aac72",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
+      "category": "ai-ml",
       "tags": [
         "Collaboration",
         "TypeScript",
@@ -728,7 +728,7 @@
       "summary_source": "manual",
       "readme_sha": "3d557e66dccea26b912be6cbdc0ada65a45af888",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
+      "category": "ai-ml",
       "tags": [
         "Python",
         "Simulation",
