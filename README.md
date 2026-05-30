@@ -260,8 +260,8 @@ const ak_asu = {
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=moneynest&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
 <h4><a href="https://github.com/ak-asu/moneynest">Moneynest</a></h4>
-<p>MoneyNest is a financial wellness app that personalizes budgeting and learning through interactive simulations and AI-driven guidance.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Financial Wellness</code> <code>AI Assistant</code> <code>Interactive Learning</code></p>
+<p>MoneyNest is a financial wellness app that offers personalized budgeting and interactive money simulations for users. It enhances financial literacy effectively.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Financial Wellness</code> <code>Interactive Simulations</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
   </tr>
@@ -695,7 +695,7 @@ const ak_asu = {
 
 <!-- CURRENT:START -->
 ### 🔭 Working On
-- **[Moneynest](https://github.com/ak-asu/moneynest)** — MoneyNest is a financial wellness app that personalizes budgeting and learning through interactive simulations and AI-driven guidance.
+- **[Moneynest](https://github.com/ak-asu/moneynest)** — MoneyNest is a financial wellness app that offers personalized budgeting and interactive money simulations for users. It enhances financial literacy effectively.
 - **[Superagent](https://github.com/ak-asu/superagent)** — An HTTP client helper library that simplifies making API requests and handling responses with a clean chainable interface.
 - **[Basiccompiler](https://github.com/ak-asu/basiccompiler)** — A BASIC language compiler written in C++ that performs lexing, parsing, and code generation, demonstrating core compiler construction.
 - **[Arduino](https://github.com/ak-asu/Arduino)** — Explore IoT with Arduino projects, from remote LED control to emergency alerts, showcasing practical hardware applications.
