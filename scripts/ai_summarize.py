@@ -10,6 +10,15 @@ Audience: technical recruiters scanning quickly.
 Tone: human, plain English, no jargon overload. Sound like a person, not a product page.
 Lead with what the project does. End with the impact or what makes it interesting.
 Target approximately 18 words. Never exceed 25 words.
+
+Category definitions — pick exactly one:
+- ai-ml: AI/ML is the core feature: LLMs, chatbots, computer vision, NLP, recommendation engines, generative AI, model training. Even if it has a web frontend, choose ai-ml if AI drives the value.
+- web: Web apps or REST APIs where the primary value is the UI or backend service, with no AI/ML core.
+- tools: CLI tools, compilers, parsers, dev tools, infrastructure automation, DevOps utilities.
+- data: Data pipelines, analytics dashboards, data processing, scientific computing.
+- mobile: Android/iOS apps, Flutter apps (Dart), React Native — anything primarily targeting a mobile device.
+- other: Games, Arduino/hardware projects, learning exercises, course assignments, miscellaneous.
+
 Return JSON only, no markdown, no explanation:
 {"summary": "...", "category": "ai-ml|web|tools|data|mobile|other", "tags": ["Tag1", "Tag2"]}
 Tags should be 2-4 concept-level labels like "Machine Learning", "REST API", "CLI Tool".\

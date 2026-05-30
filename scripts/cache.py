@@ -1,5 +1,6 @@
 import hashlib
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -38,4 +39,12 @@ def compute_topics_hash(topics: list[str]) -> str:
 
 
 def make_display_name(repo_name: str) -> str:
-    return repo_name.replace("-", " ").replace("_", " ").title()
+    """Split on separators; preserve a part's casing if it's mixed-case (intentional), otherwise capitalize."""
+    parts = re.split(r"[-_]", repo_name)
+    result = []
+    for part in parts:
+        if not part:
+            continue
+        has_mixed_case = any(c.isupper() for c in part[1:]) if len(part) > 1 else part[0].isupper()
+        result.append(part if has_mixed_case else part.capitalize())
+    return " ".join(result)

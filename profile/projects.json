@@ -33,7 +33,7 @@
       "summary": "A simple compiler that translates basic programming language syntax into machine code, demonstrating foundational compiler design principles.",
       "readme_sha": null,
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
+      "category": "tools",
       "tags": [
         "Compiler Design",
         "C++",
@@ -117,7 +117,7 @@
       "summary": "Zeneuro is an AI-driven mental health app offering mood tracking and self-help tools for personal wellness. It enhances emotional support accessibility.",
       "readme_sha": "47a779c1838dc8242fd75099c21f4bf4b228fb13",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
+      "category": "ai-ml",
       "tags": [
         "Mental Health",
         "AI Chatbot",
@@ -263,7 +263,7 @@
       "summary": "Summarizes notes from various sources into concise formats, enhancing productivity through voiceovers and export options.",
       "readme_sha": "fd6e92d00ed65f4664bace76c0d9f7c321342b33",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
+      "category": "ai-ml",
       "tags": [
         "Note Summarization",
         "Voiceover",
@@ -317,7 +317,7 @@
       "summary": "Search your local image library using AI for intuitive, privacy-focused results without cloud dependency.",
       "readme_sha": "55a48d7e052d7e052162e0e5ebe61c0848a9e8d0",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
+      "category": "ai-ml",
       "tags": [
         "Image Search",
         "AI",
@@ -404,7 +404,7 @@
       "summary": "Geeky transforms scattered multimedia notes into personalized learning Shorts, enhancing self-education and retention through adaptive recommendations.",
       "readme_sha": "69810926a592c60d8ea973fa08f4634aaa50209c",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
+      "category": "mobile",
       "tags": [
         "Education Technology",
         "Personalized Learning",
@@ -447,7 +447,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-08T19:48:17Z",
-      "url": "https://github.com/ak-asu/download-codewiki"
+      "url": "https://github.com/ak-asu/download-codewiki",
+      "summary_source": "fallback"
     },
     "1198668622": {
       "id": 1198668622,
@@ -470,7 +471,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-30T02:12:52Z",
-      "url": "https://github.com/ak-asu/read4ever"
+      "url": "https://github.com/ak-asu/read4ever",
+      "summary_source": "fallback"
     },
     "862505869": {
       "id": 862505869,
@@ -491,7 +493,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2025-02-11T00:53:58Z",
-      "url": "https://github.com/ak-asu/Tic-Tac-Toe"
+      "url": "https://github.com/ak-asu/Tic-Tac-Toe",
+      "summary_source": "fallback"
     },
     "1201327556": {
       "id": 1201327556,
@@ -515,7 +518,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T22:14:02Z",
-      "url": "https://github.com/ak-asu/moneynest"
+      "url": "https://github.com/ak-asu/moneynest",
+      "summary_source": "fallback"
     },
     "1172812604": {
       "id": 1172812604,
@@ -543,7 +547,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T22:33:56Z",
-      "url": "https://github.com/ak-asu/GameGenAI"
+      "url": "https://github.com/ak-asu/GameGenAI",
+      "summary_source": "fallback"
     },
     "892825675": {
       "id": 892825675,
@@ -564,7 +569,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2025-04-13T01:15:29Z",
-      "url": "https://github.com/ak-asu/Arduino"
+      "url": "https://github.com/ak-asu/Arduino",
+      "summary_source": "fallback"
     },
     "1208213707": {
       "id": 1208213707,
@@ -590,7 +596,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T21:34:39Z",
-      "url": "https://github.com/ak-asu/carecallerai"
+      "url": "https://github.com/ak-asu/carecallerai",
+      "summary_source": "fallback"
     },
     "1075559834": {
       "id": 1075559834,
@@ -614,7 +621,8 @@
       "archived": false,
       "is_fork": true,
       "pushed_at": "2026-05-30T00:58:41Z",
-      "url": "https://github.com/ak-asu/Coderz-NMTSAEducationPlatfo"
+      "url": "https://github.com/ak-asu/Coderz-NMTSAEducationPlatfo",
+      "summary_source": "fallback"
     },
     "1093818812": {
       "id": 1093818812,
@@ -641,7 +649,8 @@
       "archived": false,
       "is_fork": true,
       "pushed_at": "2026-05-13T15:35:41Z",
-      "url": "https://github.com/ak-asu/visionforge"
+      "url": "https://github.com/ak-asu/visionforge",
+      "summary_source": "fallback"
     },
     "1195601574": {
       "id": 1195601574,
@@ -665,7 +674,8 @@
       "archived": false,
       "is_fork": true,
       "pushed_at": "2026-05-30T02:46:02Z",
-      "url": "https://github.com/ak-asu/24-sync-solve"
+      "url": "https://github.com/ak-asu/24-sync-solve",
+      "summary_source": "fallback"
     },
     "1193134859": {
       "id": 1193134859,
@@ -688,7 +698,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-03-26T23:02:14Z",
-      "url": "https://github.com/ak-asu/shadow-committee"
+      "url": "https://github.com/ak-asu/shadow-committee",
+      "summary_source": "fallback"
     },
     "1101020889": {
       "id": 1101020889,
@@ -710,7 +721,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T23:06:40Z",
-      "url": "https://github.com/ak-asu/elektraz"
+      "url": "https://github.com/ak-asu/elektraz",
+      "summary_source": "fallback"
     },
     "856448981": {
       "id": 856448981,
@@ -731,7 +743,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2025-02-11T01:03:30Z",
-      "url": "https://github.com/ak-asu/Context-Monitor"
+      "url": "https://github.com/ak-asu/Context-Monitor",
+      "summary_source": "fallback"
     },
     "886283096": {
       "id": 886283096,
@@ -793,7 +806,7 @@
       "summary": "BookTrack recommends books using AI, allowing users to search by mood or genre for personalized reading lists.",
       "readme_sha": "b8af1dc61691da6aa376649c34823ea69276a34e",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "web",
+      "category": "ai-ml",
       "tags": [
         "Book Recommendations",
         "AI",
@@ -844,7 +857,7 @@
       "summary": "Automates job search by scoring fits, generating resumes, and keeping your data local. Empower your job hunt securely.",
       "readme_sha": "15059661e5a2be2588e57843a621d539d950a3e3",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
+      "category": "ai-ml",
       "tags": [
         "Job Search Automation",
         "Resume Builder",
@@ -871,7 +884,7 @@
       "summary": "Docuer transforms documentation into personalized learning courses using AI, making learning engaging and efficient. It enhances knowledge retention through a dynamic knowledge graph.",
       "readme_sha": "68cb32dabd8bf158d2eebfbb7e818ed5b5645f7d",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
+      "category": "ai-ml",
       "tags": [
         "AI",
         "Knowledge Graph",
@@ -919,7 +932,8 @@
       "archived": false,
       "is_fork": false,
       "pushed_at": "2026-05-29T20:50:45Z",
-      "url": "https://github.com/ak-asu/ProjectIAM"
+      "url": "https://github.com/ak-asu/ProjectIAM",
+      "summary_source": "fallback"
     },
     "1253758115": {
       "id": 1253758115,
@@ -983,7 +997,7 @@
       "summary": "CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.",
       "readme_sha": "da4a91a08f717dd682cfc4a0f07864b19ffc91c6",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
+      "category": "ai-ml",
       "tags": [
         "Infrastructure as Code",
         "AWS",
@@ -1014,7 +1028,7 @@
       "summary": "K8sQuest is a hands-on game for learning Kubernetes through real-world troubleshooting challenges. It’s engaging and cost-free.",
       "readme_sha": "07b5485b463246416a37259036bd1755ecf3bd12",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "other",
+      "category": "tools",
       "tags": [
         "Kubernetes",
         "Learning Game",

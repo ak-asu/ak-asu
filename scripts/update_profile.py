@@ -51,7 +51,8 @@ def main() -> None:
         if repo_id in new_ids:
             continue
         cached_repo = cache["repos"].get(repo_id, {})
-        if repo.get("pushed_at") != cached_repo.get("pushed_at"):
+        needs_retry = cached_repo.get("summary_source") == "fallback"
+        if repo.get("pushed_at") != cached_repo.get("pushed_at") or needs_retry:
             changed_ids.add(repo_id)
     print(f"Potentially changed: {len(changed_ids)}")
 
@@ -69,16 +70,19 @@ def main() -> None:
         cached_repo = cache["repos"].get(repo_id, {})
         sha_changed = readme_sha != cached_repo.get("readme_sha")
         topics_changed = topics_hash != cached_repo.get("topics_hash")
+        is_fallback = cached_repo.get("summary_source") == "fallback"
 
         languages = fetch_languages(owner, name, token)
 
-        if repo_id in new_ids or sha_changed or topics_changed:
+        if repo_id in new_ids or sha_changed or topics_changed or is_fallback:
             print(f"  Summarizing: {name}")
             try:
                 result = generate_summary(repo, readme_excerpt, token)
+                summary_source = "ai"
             except Exception as exc:
                 print(f"  WARNING: AI call failed for {name}: {exc}")
                 result = make_fallback_summary(repo)
+                summary_source = "fallback"
 
             cache["repos"][repo_id] = {
                 "id": repo["id"],
@@ -86,6 +90,7 @@ def main() -> None:
                 "display_name": make_display_name(name),
                 "description": repo.get("description") or "",
                 "summary": result["summary"],
+                "summary_source": summary_source,
                 "readme_sha": readme_sha,
                 "topics_hash": topics_hash,
                 "category": result["category"],
