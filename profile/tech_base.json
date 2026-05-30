@@ -1,0 +1,8 @@
+{
+  "Frontend": ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Vue.js", "Angular", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "Material-UI"],
+  "Backend": ["Node.js", "Express.js", "Python", "Django", "Flask", "Java", "Spring", "PHP", "GraphQL", "REST API"],
+  "Database": ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Firebase", "SQLite", "Oracle"],
+  "Cloud & DevOps": ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Terraform", "Nginx"],
+  "Tools": ["Git", "GitHub", "GitLab", "VS Code", "IntelliJ IDEA", "Postman", "Jira", "Linux"],
+  "AI/ML": ["TensorFlow", "PyTorch", "Scikit-Learn", "Pandas", "NumPy", "Jupyter"]
+}
