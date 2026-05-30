@@ -29,6 +29,10 @@ from render import (
 _CACHE_PATH = "profile/projects.json"
 _TECH_BASE_PATH = "profile/tech_base.json"
 _README_PATH = "README.md"
+# Max AI calls per run reserved for fallback retries. New repos and repos
+# with genuine README/topic changes are always processed and don't count
+# against this budget.
+_RETRY_BATCH_SIZE = 10
 
 
 def main() -> None:
@@ -45,16 +49,41 @@ def main() -> None:
     new_ids, removed_ids = diff_repos(all_repos, cache)
     print(f"New: {len(new_ids)}, Removed: {len(removed_ids)}")
 
-    changed_ids: set[str] = set()
+    # Separate repos into two tiers:
+    #   priority_changed — pushed_at changed (fetch README, re-summarize if sha/topics differ)
+    #   fallback_pending — only need a retry; batch-limited with cyclic rotation
+    priority_changed: set[str] = set()
+    fallback_pending: list[str] = []
     for repo in all_repos:
         repo_id = str(repo["id"])
         if repo_id in new_ids:
             continue
         cached_repo = cache["repos"].get(repo_id, {})
-        needs_retry = cached_repo.get("summary_source") == "fallback"
-        if repo.get("pushed_at") != cached_repo.get("pushed_at") or needs_retry:
-            changed_ids.add(repo_id)
-    print(f"Potentially changed: {len(changed_ids)}")
+        pushed_changed = repo.get("pushed_at") != cached_repo.get("pushed_at")
+        is_fallback = cached_repo.get("summary_source") == "fallback"
+        if pushed_changed:
+            priority_changed.add(repo_id)
+        elif is_fallback:
+            fallback_pending.append(repo_id)
+
+    # Cyclic rotation: sort fallback list, then rotate by (day × batch) % n so
+    # each daily run works on a different window, covering all repos over time.
+    if fallback_pending:
+        fallback_pending.sort()
+        n = len(fallback_pending)
+        day_offset = (datetime.now(timezone.utc).toordinal() * _RETRY_BATCH_SIZE) % n
+        fallback_pending = fallback_pending[day_offset:] + fallback_pending[:day_offset]
+
+    fallback_batch = fallback_pending[:_RETRY_BATCH_SIZE]
+    skipped = len(fallback_pending) - len(fallback_batch)
+    if skipped > 0:
+        print(
+            f"Retry batch: {len(fallback_batch)}/{len(fallback_pending)} fallback repos "
+            f"this run ({skipped} deferred to future runs via cyclic rotation)"
+        )
+
+    changed_ids = priority_changed | set(fallback_batch)
+    print(f"Processing: {len(new_ids)} new, {len(priority_changed)} changed, {len(fallback_batch)} fallback retries")
 
     repos_by_id = {str(r["id"]): r for r in all_repos}
     for repo_id in new_ids | changed_ids:
