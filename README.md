@@ -525,7 +525,7 @@ const ak_asu = {
 
 ### <a name="mobile"></a>📱 Mobile & Cross-Platform
 <details open>
-<summary><b>5 projects</b></summary>
+<summary><b>6 projects</b></summary>
 <br/>
 <table>
   <tr>
@@ -578,7 +578,15 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Machine Learning</code> <code>React Native</code> <code>Image Processing</code></p>
 <br clear="left"/>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/brailleapp">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=brailleapp&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/brailleapp">Brailleapp</a></h4>
+<p>A Braille learning app that helps users understand Braille through interactive lessons and exercises. Promotes accessibility and inclusivity.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Accessibility</code> <code>Education</code> <code>Mobile App</code></p>
+<br clear="left"/>
+    </td>
   </tr>
 </table>
 </details>
@@ -699,10 +707,10 @@ const ak_asu = {
 
 <!-- CURRENT:START -->
 ### 🔭 Working On
+- **[Brailleapp](https://github.com/ak-asu/brailleapp)** — A Braille learning app that helps users understand Braille through interactive lessons and exercises. Promotes accessibility and inclusivity.
 - **[Moneynest](https://github.com/ak-asu/moneynest)** — MoneyNest is a financial wellness app that offers personalized budgeting and interactive money simulations for users. It enhances financial literacy effectively.
 - **[Superagent](https://github.com/ak-asu/superagent)** — An HTTP client helper library that simplifies making API requests and handling responses with a clean chainable interface.
 - **[Basiccompiler](https://github.com/ak-asu/basiccompiler)** — A BASIC language compiler written in C++ that performs lexing, parsing, and code generation, demonstrating core compiler construction.
-- **[Arduino](https://github.com/ak-asu/Arduino)** — Explore IoT with Arduino projects, from remote LED control to emergency alerts, showcasing practical hardware applications.
 <!-- CURRENT:END -->
 
 </td>
