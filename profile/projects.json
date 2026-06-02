@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T06:43:32.154266+00:00",
+  "last_updated": "2026-06-02T06:25:34.609015+00:00",
   "guestbook_discussion_number": 4,
   "repos": {
     "1148426086": {
@@ -69,17 +69,17 @@
         "TypeScript"
       ],
       "languages": {
-        "TypeScript": 192522,
-        "CSS": 13254,
-        "HTML": 1329,
-        "JavaScript": 850
+        "TypeScript": 235364,
+        "JavaScript": 25507,
+        "CSS": 18266,
+        "HTML": 1672
       },
       "topics": [],
       "stars": 0,
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2026-05-02T18:43:32Z",
+      "pushed_at": "2026-06-01T21:35:54Z",
       "url": "https://github.com/ak-asu/Portfolio"
     },
     "1215455962": {
@@ -1404,26 +1404,28 @@
       "name": "brailleapp",
       "display_name": "Brailleapp",
       "description": "",
-      "summary": "A Braille learning app that helps users understand Braille through interactive lessons and exercises. Promotes accessibility and inclusivity.",
+      "summary": "A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.",
       "summary_source": "ai",
-      "readme_sha": null,
+      "readme_sha": "3507fd9f55141b4f243734466d09bfd52ff84d3d",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "mobile",
+      "category": "ai-ml",
       "tags": [
-        "Accessibility",
-        "Education",
-        "Mobile App"
+        "OCR",
+        "Braille",
+        "Web App"
       ],
       "languages": {
-        "Python": 47788,
-        "HTML": 7596
+        "Jupyter Notebook": 2069887,
+        "Python": 64131,
+        "HTML": 9603,
+        "JavaScript": 5389
       },
       "topics": [],
       "stars": 0,
       "forks_count": 0,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2026-06-01T03:36:09Z",
+      "pushed_at": "2026-06-01T15:53:59Z",
       "url": "https://github.com/ak-asu/brailleapp"
     }
   }
