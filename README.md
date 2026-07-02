@@ -707,10 +707,10 @@ const ak_asu = {
 
 <!-- CURRENT:START -->
 ### 🔭 Working On
+- **[Web Dev Skill](https://github.com/ak-asu/web-dev-skill)** — Build a professional portfolio website while mastering web development fundamentals and best practices. Great for improving your skills!
 - **[Portfolio](https://github.com/ak-asu/ak-asu.github.io)** — An interactive web portfolio showcasing skills and projects with engaging UI/UX, including 3D elements and a chat assistant.
 - **[Brailleapp](https://github.com/ak-asu/brailleapp)** — A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.
 - **[Moneynest](https://github.com/ak-asu/moneynest)** — MoneyNest is a financial wellness app that offers personalized budgeting and interactive money simulations for users. It enhances financial literacy effectively.
-- **[Superagent](https://github.com/ak-asu/superagent)** — An HTTP client helper library that simplifies making API requests and handling responses with a clean chainable interface.
 <!-- CURRENT:END -->
 
 </td>
