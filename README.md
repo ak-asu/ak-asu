@@ -187,15 +187,6 @@ const ak_asu = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/cloudforge">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=cloudforge&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/cloudforge">Cloudforge</a></h4>
-<p>CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Infrastructure as Code</code> <code>AWS</code> <code>Knowledge Graph</code></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/notesummarizer">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=notesummarizer&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -204,8 +195,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Machine Learning</code> <code>Text Summarization</code> <code>Streamlit App</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/mindsyncaiagent">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mindsyncaiagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -215,6 +204,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>AI Agent</code> <code>LLM</code> <code>Automation</code> <code>Python</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/yolocv">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=yolocv&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -224,8 +215,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Object Detection</code> <code>YOLOv8</code> <code>OpenCV</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/projectstory">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=projectstory&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -235,6 +224,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>AI Narrative Generation</code> <code>React</code> <code>TypeScript</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/campusgpt">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=campusgpt&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -244,8 +235,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Chatbot</code> <code>Google Cloud</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/GeminiChatExtension">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GeminiChatExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -255,6 +244,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Chrome Extension</code> <code>JavaScript</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/VisionVault">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=VisionVault&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -264,8 +255,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Computer Vision</code> <code>Privacy</code> <code>Cryptography</code> <code>Face Detection</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/moneynest">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=moneynest&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -275,6 +264,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Financial Wellness</code> <code>Interactive Simulations</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/brailleapp">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=brailleapp&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -282,6 +273,15 @@ const ak_asu = {
 <h4><a href="https://github.com/ak-asu/brailleapp">Brailleapp</a></h4>
 <p>A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.</p>
 <p><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>OCR</code> <code>Braille</code> <code>Web App</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/cloudforge">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=cloudforge&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/cloudforge">Cloudforge</a></h4>
+<p>CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Infrastructure as Code</code> <code>AWS</code> <code>Knowledge Graph</code></p>
 <br clear="left"/>
     </td>
   </tr>
@@ -707,10 +707,10 @@ const ak_asu = {
 
 <!-- CURRENT:START -->
 ### 🔭 Working On
+- **[Cloudforge](https://github.com/ak-asu/cloudforge)** — CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.
 - **[Web Dev Skill](https://github.com/ak-asu/web-dev-skill)** — Build a professional portfolio website while mastering web development fundamentals and best practices. Great for improving your skills!
 - **[Portfolio](https://github.com/ak-asu/ak-asu.github.io)** — An interactive web portfolio showcasing skills and projects with engaging UI/UX, including 3D elements and a chat assistant.
 - **[Brailleapp](https://github.com/ak-asu/brailleapp)** — A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.
-- **[Moneynest](https://github.com/ak-asu/moneynest)** — MoneyNest is a financial wellness app that offers personalized budgeting and interactive money simulations for users. It enhances financial literacy effectively.
 <!-- CURRENT:END -->
 
 </td>
