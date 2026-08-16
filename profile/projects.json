@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T02:41:38.447533+00:00",
+  "last_updated": "2026-08-16T02:49:36.197430+00:00",
   "guestbook_discussion_number": 4,
   "repos": {
     "1148426086": {
@@ -404,25 +404,21 @@
       "name": "download-codewiki",
       "display_name": "Download Codewiki",
       "description": "",
-      "summary": "A JavaScript utility for downloading and archiving CodeWiki programming content for offline access and study.",
-      "summary_source": "manual",
-      "readme_sha": "99ed509bb489c6d0d60391210b117fac3b32535a",
+      "summary": "Download Codewiki — a JavaScript project by ak-asu.",
+      "summary_source": "fallback",
+      "readme_sha": "1f0c5c790c3e5de1c22211cdcafcab4f0f29f036",
       "topics_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "category": "tools",
-      "tags": [
-        "Content Downloader",
-        "JavaScript",
-        "Offline Access"
-      ],
+      "category": "other",
+      "tags": [],
       "languages": {
-        "JavaScript": 10382
+        "JavaScript": 91751
       },
       "topics": [],
       "stars": 0,
-      "forks_count": 0,
+      "forks_count": 1,
       "archived": false,
       "is_fork": false,
-      "pushed_at": "2026-05-08T19:48:17Z",
+      "pushed_at": "2026-08-15T19:18:03Z",
       "url": "https://github.com/ak-asu/download-codewiki"
     },
     "1198668622": {

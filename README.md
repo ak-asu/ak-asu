@@ -392,7 +392,7 @@ const ak_asu = {
 
 ### <a name="tools"></a>🛠️ Tools & Utilities
 <details open>
-<summary><b>13 projects</b></summary>
+<summary><b>12 projects</b></summary>
 <br/>
 <table>
   <tr>
@@ -437,15 +437,6 @@ const ak_asu = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/download-codewiki">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=download-codewiki&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/download-codewiki">Download Codewiki</a></h4>
-<p>A JavaScript utility for downloading and archiving CodeWiki programming content for offline access and study.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Content Downloader</code> <code>JavaScript</code> <code>Offline Access</code></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/basicparser">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basicparser&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -454,8 +445,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>C++</code> <code>Parser</code> <code>Compiler</code> <code>Semantic Validation</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/parsergenerator">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=parsergenerator&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -465,6 +454,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>Grammar Analysis</code> <code>C++</code> <code>CLI Tool</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/basicterafform">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basicterafform&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -474,8 +465,6 @@ const ak_asu = {
 <p><code>Terraform</code> <code>Infrastructure as Code</code> <code>Cloud</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/mailautomate">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mailautomate&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -485,6 +474,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Email Automation</code> <code>Python</code> <code>Scripting</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/jobapptracker">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=jobapptracker&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -494,8 +485,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Job Search</code> <code>JavaScript</code> <code>Productivity</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/FunTimerExtension">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=FunTimerExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -505,6 +494,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Browser Extension</code> <code>JavaScript</code> <code>Animations</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/basiccompiler">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=basiccompiler&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -514,8 +505,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>Compiler</code> <code>C++</code> <code>Language Implementation</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/superagent">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=superagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -525,7 +514,6 @@ const ak_asu = {
 <p><code>HTTP Client</code> <code>API Integration</code> <code>JavaScript</code></p>
 <br clear="left"/>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -594,7 +582,7 @@ const ak_asu = {
 
 ### <a name="other"></a>📦 Other
 <details open>
-<summary><b>2 projects</b></summary>
+<summary><b>3 projects</b></summary>
 <br/>
 <table>
   <tr>
@@ -616,6 +604,18 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>IoT</code> <code>Arduino</code> <code>ESP32</code> <code>Wireless Communication</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/download-codewiki">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=download-codewiki&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/download-codewiki">Download Codewiki</a></h4>
+<p>Download Codewiki — a JavaScript project by ak-asu.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></p>
+<br clear="left"/>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -707,10 +707,10 @@ const ak_asu = {
 
 <!-- CURRENT:START -->
 ### 🔭 Working On
+- **[Download Codewiki](https://github.com/ak-asu/download-codewiki)** — Download Codewiki — a JavaScript project by ak-asu.
 - **[Web Dev Skill](https://github.com/ak-asu/web-dev-skill)** — Build a professional portfolio website while mastering web development fundamentals and best practices. Great for improving your skills!
 - **[Cloudforge](https://github.com/ak-asu/cloudforge)** — CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.
 - **[Portfolio](https://github.com/ak-asu/ak-asu.github.io)** — An interactive web portfolio showcasing skills and projects with engaging UI/UX, including 3D elements and a chat assistant.
-- **[Brailleapp](https://github.com/ak-asu/brailleapp)** — A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.
 <!-- CURRENT:END -->
 
 </td>
