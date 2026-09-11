@@ -582,10 +582,19 @@ const ak_asu = {
 
 ### <a name="other"></a>📦 Other
 <details open>
-<summary><b>3 projects</b></summary>
+<summary><b>4 projects</b></summary>
 <br/>
 <table>
   <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/web-dev-beginner">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=web-dev-beginner&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/web-dev-beginner">Web Dev Beginner</a></h4>
+<p>Web Dev Beginner — a JavaScript project by ak-asu.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
+<br clear="left"/>
+    </td>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/forgequest">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=forgequest&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -595,6 +604,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Game</code> <code>Confluence</code> <code>JavaScript</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Arduino">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Arduino&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -604,8 +615,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp; <code>IoT</code> <code>Arduino</code> <code>ESP32</code> <code>Wireless Communication</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/download-codewiki">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=download-codewiki&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -615,7 +624,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></p>
 <br clear="left"/>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -633,7 +641,7 @@ const ak_asu = {
 <summary><b>Frontend</b></summary>
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 </details>
 
