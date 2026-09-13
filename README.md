@@ -107,15 +107,6 @@ const ak_asu = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/carecallerai">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=carecallerai&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/carecallerai">Carecallerai</a></h4>
-<p>An AI-powered healthcare communication platform that automates patient outreach and tracks care interactions with integrated ML-driven clinical insights.</p>
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Healthcare AI</code> <code>Machine Learning</code> <code>Clinical Communication</code></p>
-<br clear="left"/>
-    </td>
-    <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/docuer">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=docuer&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
 </a>
@@ -124,8 +115,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>AI</code> <code>Knowledge Graph</code> <code>Personalized Learning</code> <code>Web Application</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/GameGenAI">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GameGenAI&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -135,6 +124,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Game Development</code> <code>AI Pipeline</code> <code>Full-Stack</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/elektraz">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=elektraz&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -144,8 +135,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>Python</code> <code>Simulation</code> <code>Energy Systems</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/book-recommender">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=book-recommender&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -155,6 +144,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Book Recommendations</code> <code>AI</code> <code>Full-Stack</code> <code>TypeScript</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/GenZents-HeritageSquareFounda">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GenZents-HeritageSquareFounda&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -164,8 +155,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Conversational AI</code> <code>Google Drive</code> <code>TypeScript</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Local-Image-Finder">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Local-Image-Finder&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -175,6 +164,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Image Search</code> <code>AI</code> <code>Desktop App</code> <code>Privacy</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/Zeneuro">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=Zeneuro&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -184,8 +175,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Mental Health</code> <code>AI Chatbot</code> <code>Self-Care</code> <code>Progress Tracking</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/notesummarizer">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=notesummarizer&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -195,6 +184,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Machine Learning</code> <code>Text Summarization</code> <code>Streamlit App</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/mindsyncaiagent">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=mindsyncaiagent&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -204,8 +195,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>AI Agent</code> <code>LLM</code> <code>Automation</code> <code>Python</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/yolocv">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=yolocv&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -215,6 +204,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Object Detection</code> <code>YOLOv8</code> <code>OpenCV</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/projectstory">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=projectstory&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -224,8 +215,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>AI Narrative Generation</code> <code>React</code> <code>TypeScript</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/campusgpt">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=campusgpt&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -235,6 +224,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Chatbot</code> <code>Google Cloud</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/GeminiChatExtension">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=GeminiChatExtension&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -244,8 +235,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Chrome Extension</code> <code>JavaScript</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/VisionVault">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=VisionVault&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -255,6 +244,8 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Computer Vision</code> <code>Privacy</code> <code>Cryptography</code> <code>Face Detection</code></p>
 <br clear="left"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/moneynest">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=moneynest&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -264,17 +255,6 @@ const ak_asu = {
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp; <code>Financial Wellness</code> <code>Interactive Simulations</code> <code>AI Assistant</code></p>
 <br clear="left"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<a href="https://github.com/ak-asu/brailleapp">
-  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=brailleapp&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
-</a>
-<h4><a href="https://github.com/ak-asu/brailleapp">Brailleapp</a></h4>
-<p>A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.</p>
-<p><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>OCR</code> <code>Braille</code> <code>Web App</code></p>
-<br clear="left"/>
-    </td>
     <td width="50%" valign="top">
 <a href="https://github.com/ak-asu/cloudforge">
   <img src="https://api.dicebear.com/9.x/identicon/svg?seed=cloudforge&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
@@ -282,6 +262,26 @@ const ak_asu = {
 <h4><a href="https://github.com/ak-asu/cloudforge">Cloudforge</a></h4>
 <p>CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.</p>
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> &nbsp; <code>Infrastructure as Code</code> <code>AWS</code> <code>Knowledge Graph</code></p>
+<br clear="left"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/carecallerai">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=carecallerai&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/carecallerai">Carecallerai</a></h4>
+<p>An AI-powered healthcare communication platform that automates patient outreach and tracks care interactions with integrated ML-driven clinical insights.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp; <code>Healthcare AI</code> <code>Machine Learning</code> <code>Clinical Communication</code></p>
+<br clear="left"/>
+    </td>
+    <td width="50%" valign="top">
+<a href="https://github.com/ak-asu/brailleapp">
+  <img src="https://api.dicebear.com/9.x/identicon/svg?seed=brailleapp&size=48&backgroundColor=b6e3f4" width="48" height="48" align="left" hspace="10"/>
+</a>
+<h4><a href="https://github.com/ak-asu/brailleapp">Brailleapp</a></h4>
+<p>A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.</p>
+<p><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp; <code>OCR</code> <code>Braille</code> <code>Web App</code></p>
 <br clear="left"/>
     </td>
   </tr>
@@ -635,7 +635,7 @@ const ak_asu = {
 ## 💻 **Tech Stack & Skills**
 
 <!-- TECHSTACK:START -->
-> Most used: **TypeScript** · **Python** · **Jupyter**
+> Most used: **TypeScript** · **Jupyter** · **Python**
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -715,10 +715,10 @@ const ak_asu = {
 
 <!-- CURRENT:START -->
 ### 🔭 Working On
+- **[Brailleapp](https://github.com/ak-asu/brailleapp)** — A Braille OCR app that translates physical Braille to English text and speech using your phone or webcam. Accessible and innovative.
+- **[Carecallerai](https://github.com/ak-asu/carecallerai)** — An AI-powered healthcare communication platform that automates patient outreach and tracks care interactions with integrated ML-driven clinical insights.
 - **[Download Codewiki](https://github.com/ak-asu/download-codewiki)** — Download Codewiki — a JavaScript project by ak-asu.
 - **[Web Dev Skill](https://github.com/ak-asu/web-dev-skill)** — Build a professional portfolio website while mastering web development fundamentals and best practices. Great for improving your skills!
-- **[Cloudforge](https://github.com/ak-asu/cloudforge)** — CloudForge transforms product requirements into live AWS infrastructure using a knowledge graph for accurate architecture decisions.
-- **[Portfolio](https://github.com/ak-asu/ak-asu.github.io)** — An interactive web portfolio showcasing skills and projects with engaging UI/UX, including 3D elements and a chat assistant.
 <!-- CURRENT:END -->
 
 </td>
